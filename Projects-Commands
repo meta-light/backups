@@ -1,0 +1,20 @@
+Ironfish
+Update Ironfish
+1 - cd ironfish
+2 - git pull
+3 - yarn install
+Start Ironfish
+1 - Start Node - yarn start start -d default -p 9033
+2 - Start Miner - yarn start miners:start -t 30
+3 - Check Status - yarn start status -f
+Testnet
+1 - Check Balance - yarn start accounts:balance
+2 - Deposit for testnet points - yarn ironfish deposit
+3 - Confirm TX - y
+
+Tari
+Start Tari
+1 - Start start-tor
+2 - Start tari-base-node
+3 - Start tari-console-wallet
+4 - Start tari-mining-node
