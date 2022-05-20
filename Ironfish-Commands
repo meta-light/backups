@@ -13,3 +13,4 @@ Testnet
 3 - Confirm TX - y
 Auto-Deposit 
 1 - watch -n 60 yarn ironfish deposit --confirm
+2 - to exit - control + c
