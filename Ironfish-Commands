@@ -1,4 +1,4 @@
-Ironfish
+Ironfish Commands
 Update Ironfish
 1 - cd ironfish
 2 - git pull
@@ -12,5 +12,7 @@ Testnet
 2 - Deposit for testnet points - yarn ironfish deposit
 3 - Confirm TX - y
 Auto-Deposit 
-1 - watch -n 60 yarn ironfish deposit --confirm
+1 - watch -n 90 yarn ironfish deposit --confirm
 2 - to exit - control + c
+Join Pool
+1 - yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t 30 
