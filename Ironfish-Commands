@@ -11,10 +11,5 @@ Testnet
 1 - Check Balance - yarn start accounts:balance
 2 - Deposit for testnet points - yarn ironfish deposit
 3 - Confirm TX - y
-
-Tari
-Start Tari
-1 - Start start-tor
-2 - Start tari-base-node
-3 - Start tari-console-wallet
-4 - Start tari-mining-node
+Auto-Deposit 
+1 - watch -n 60 yarn ironfish deposit --confirm
