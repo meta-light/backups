@@ -1,4 +1,4 @@
-Ubuntu Command List
+Ubuntu Command List         (ctrl+alt+t)
 sudo = run as admin
 mkdir = make directory, creates a filesystem folder
 ls = list files in current directory
@@ -15,8 +15,16 @@ reboot = reboots system
 ip -br link = network/mac addresses
 ip -br addr show = network/mac addresses long form
 ip -br a s = network addresses
-
-
+lsblk = list drives and partitions
+/----------------------------------\
 Boot from Linux forced from the BIOS on Linux:
-  sudo grub-install /dev/nvme0n1
-  sudo update-grub
+$ sudo grub-install /dev/nvme0n1
+$ sudo update-grub
+/----------------------------------\
+Install linux IPMI to see the event log:
+$ sudo apt install ipmitool
+$ sudo ipmitool sdr >& ipmi-sdr.txt
+$ sudo ipmitool sel elist >& ipmi-sel.txt
+IPMI show IP/MAC address:
+$ sudo ipmitool lan print 1
+/----------------------------------\
