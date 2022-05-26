@@ -1,0 +1,22 @@
+Ubuntu Command List
+sudo = run as admin
+mkdir = make directory, creates a filesystem folder
+ls = list files in current directory
+cd = change directory
+pwd = present working directory
+dir = print current directory contents
+wget = download from internet
+apt-get = download from ubuntu repo
+history = self explanatory
+man = followed by a command displays the manual 
+-br = brief
+ip addr show = long form IP address
+reboot = reboots system
+ip -br link = network/mac addresses
+ip -br addr show = network/mac addresses long form
+ip -br a s = network addresses
+
+
+Boot from Linux forced from the BIOS on Linux:
+  sudo grub-install /dev/nvme0n1
+  sudo update-grub
