@@ -1,9 +1,12 @@
-REF
+REF/CONFIG
 Legacy P2P - # Enable the legacy p2p layer (use-legacy = true)
+Update Peers from Git - PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/peers.txt | tr -d '\n' | head -c -1) sed -i.bak -e "s/^persistent-peers *=.*/persistent-peers = \"$PEERS\"/" $HOME/.celestia-app/config/config.toml
+Update P2P - sed -i.bak -e "s/^use-legacy *=.*/use-legacy = \"true\"/" $HOME/.celestia-app/config/config.toml
 
 COMMANDS
 AppD Daemon Status - systemctl status celestia-appd
 Start Node - sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f
 Open Logs - journalctl -u celestia-appd.service -f
 Unjail Validator - celestia-appd tx slashing unjail --from=mycelium --chain-id mamaki
-Restart App - # restart service. systemctl restart celestia-appd
+Restart App - systemctl restart celestia-appd
+Update Peers - 
