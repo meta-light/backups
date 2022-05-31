@@ -9,4 +9,3 @@ Start Node - sudo systemctl start celestia-bridge && sudo journalctl -u  celesti
 Open Logs - journalctl -u celestia-appd.service -f
 Unjail Validator - celestia-appd tx slashing unjail --from=mycelium --chain-id mamaki
 Restart App - systemctl restart celestia-appd
-Update Peers - 
