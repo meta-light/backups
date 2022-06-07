@@ -16,6 +16,7 @@ ip -br link = network/mac addresses
 ip -br addr show = network/mac addresses long form
 ip -br a s = network addresses
 lsblk = list drives and partitions
+dmidecode -t 2 = system info
 /----------------------------------\
 Boot from Linux forced from the BIOS on Linux:
 $ sudo grub-install /dev/nvme0n1
