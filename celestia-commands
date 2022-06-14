@@ -12,3 +12,5 @@ Restart App - systemctl restart celestia-appd
 Init Bridge - celestia bridge init --core.remote tcp://localhost:26657 --core.grpc tcp://localhost:9090
 Kill Appd - sudo pkill -9 celestia-appd
 Bridge Logs - celestia-bridge.service -f
+Delegate more stake - celestiavaloper1q3v5cugc8cdpud87u4zwy0a74uxkk6u43cv6hd 1000000utia \
+    --from=$VALIDATOR_WALLET(redefine this) --chain-id=mamaki
