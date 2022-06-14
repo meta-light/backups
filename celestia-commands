@@ -11,3 +11,4 @@ Unjail Validator - celestia-appd tx slashing unjail --from=mycelium --chain-id m
 Restart App - systemctl restart celestia-appd
 Init Bridge - celestia bridge init --core.remote tcp://localhost:26657 --core.grpc tcp://localhost:9090
 Kill Appd - sudo pkill -9 celestia-appd
+Bridge Logs - celestia-bridge.service -f
