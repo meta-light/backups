@@ -14,3 +14,13 @@ Kill Appd - sudo pkill -9 celestia-appd
 Bridge Logs - celestia-bridge.service -f
 Delegate more stake - celestiavaloper1q3v5cugc8cdpud87u4zwy0a74uxkk6u43cv6hd 1000000utia \
     --from=$VALIDATOR_WALLET(redefine this) --chain-id=mamaki
+
+
+Update
+cd $HOME
+rm -rf celestia-app
+git clone https://github.com/celestiaorg/celestia-app.git
+cd celestia-app
+APP_VERSION=$(curl -s https://api.github.com/repos/celestiaorg/celestia-app/releases/latest | jq -r ".tag_name")
+git checkout tags/$APP_VERSION -b $APP_VERSION
+make install
