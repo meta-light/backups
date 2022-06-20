@@ -2,6 +2,7 @@
 Legacy P2P - # Enable the legacy p2p layer (use-legacy = true)
 Update Peers from Git - PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/peers.txt | tr -d '\n' | head -c -1) sed -i.bak -e "s/^persistent-peers *=.*/persistent-peers = \"$PEERS\"/" $HOME/.celestia-app/config/config.toml
 Update P2P - sed -i.bak -e "s/^use-legacy *=.*/use-legacy = \"true\"/" $HOME/.celestia-app/config/config.toml
+Additional Peers - https://polkachu.com/testnets/celestia/peers
 
 # COMMANDS
 AppD Daemon Status - systemctl status celestia-appd
@@ -13,12 +14,15 @@ Init Bridge - celestia bridge init --core.remote tcp://localhost:26657 --core.gr
 Kill Appd - sudo pkill -9 celestia-appd
 Bridge Logs - celestia-bridge.service -f
 Check Sync Status - curl -s localhost:26657/status | jq .result | jq .sync_info
-Delegate more stake - celestiavaloper1q3v5cugc8cdpud87u4zwy0a74uxkk6u43cv6hd 1000000utia \
+
+
+# Delegate more stake - 
+celestiavaloper1q3v5cugc8cdpud87u4zwy0a74uxkk6u43cv6hd 1000000utia \
     --from=$VALIDATOR_WALLET(redefine this) --chain-id=mamaki
 
 
 
-Update
+# Update
 cd $HOME
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
@@ -26,6 +30,3 @@ cd celestia-app
 APP_VERSION=$(curl -s https://api.github.com/repos/celestiaorg/celestia-app/releases/latest | jq -r ".tag_name")
 git checkout tags/$APP_VERSION -b $APP_VERSION
 make install
-
-
-https://polkachu.com/testnets/celestia/peers
