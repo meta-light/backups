@@ -29,3 +29,6 @@ $ sudo ipmitool sel elist >& ipmi-sel.txt
 IPMI show IP/MAC address:
 $ sudo ipmitool lan print 1
 /----------------------------------\
+MACOS Helium Commands 
+base command = ./helium-wallet
+import wallet = ./helium-wallet create basic --seed mobile (make sure verify:true)
