@@ -14,6 +14,7 @@ Init Bridge - celestia bridge init --core.remote tcp://localhost:26657 --core.gr
 Kill Appd - sudo pkill -9 celestia-appd
 Bridge Logs - celestia-bridge.service -f
 Check Sync Status - curl -s localhost:26657/status | jq .result | jq .sync_info
+Check Peers - curl -s http://localhost:26657/net_info | jq -r '.result.n_peers'
 
 
 # Delegate more stake - 
