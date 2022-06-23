@@ -17,11 +17,12 @@ Check Sync Status - curl -s localhost:26657/status | jq .result | jq .sync_info
 Check Peers - curl -s http://localhost:26657/net_info | jq -r '.result.n_peers'
 
 
-# Delegate more stake - 
+# Delegate more stake
+celestia-appd tx staking delegate \
 celestiavaloper1q3v5cugc8cdpud87u4zwy0a74uxkk6u43cv6hd 1000000utia \
     --from=$VALIDATOR_WALLET(redefine this) --chain-id=mamaki
 
-
+celestia-appd keys add <wallet name>
 
 # Update
 cd $HOME
