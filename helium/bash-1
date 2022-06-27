@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Define Addresses
+ADDRESS1="1bGQdA1PsdsneT7189QvtpCsRPVJmhwzrT5J2Ro7R4cGa2FiPtJ"
+ADDRESS2=
+ADDRESS3=
+ADDRESS4=
+ADDRESS5=
+ADDRESS6=
+ADDRESS7=
+ADDRESS8=
+ADDRESS9=
+ADDRESS10=
+
+# PAYMENT INFO
+AMOUNT="0.1"
+MEMO="Praise Roz"
+
+# JSON OUTPUT
+echo [ { "address": $ADDRESS1, "amount": $AMOUNT, "memo": $MEMO }, { "address": $ADDRESS2, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS3, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS4, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS5, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS6, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS7, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS8, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS9, "amount": $AMOUNT, "memo": $MEMO },{ "address": $ADDRESS10, "amount": $AMOUNT, "memo": $MEMO } ]
