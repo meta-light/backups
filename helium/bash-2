@@ -7,7 +7,7 @@ PAYMENTS=()
 
 # PAYMENT INFO
 AMOUNT="0.1"
-MEMO="TG9yZCBSb3o="
+MEMO=""
 AIRDROP_FILE="airdrop_$(date +%F).json"
 
 read -e -i "$AMOUNT" -p "Enter Airdrop Amount: " input_amount
@@ -28,5 +28,5 @@ done
 
 printf -v joined '%s,' "${PAYMENTS[@]}"
 echo "[${joined%,}]" > $AIRDROP_FILE
-
-helium-wallet pay multi ./$AIRDROP_FILE
+# TG9yZCBSb3o=
+# helium-wallet pay multi ./$AIRDROP_FILE
