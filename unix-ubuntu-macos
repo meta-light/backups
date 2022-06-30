@@ -22,10 +22,11 @@ dmidecode -t 2 = system info
 $ sudo grub-install /dev/nvme0n1
 $ sudo update-grub
 
-# Add Alias Path
+#Add Alias Path
 cd ~
 sudo nano .zshrc
-export PATH=<path>:$PATH
+alias <alias name>="<command name>"
+source ~/.zshrc
 
 # Install linux IPMI to see the event log:
 $ sudo apt install ipmitool
