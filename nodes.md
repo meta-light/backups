@@ -3,10 +3,11 @@
 
 ##Celestia Commands
 * Additional Peers - https://polkachu.com/testnets/celestia/peers
+* Start Node - `sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f`
 
 
 AppD Daemon Status - systemctl status celestia-appd
-Start Node - sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f
+
 Open Logs - journalctl -u celestia-appd.service -f
 Unjail Validator - celestia-appd tx slashing unjail --from=WALLET --chain-id mamaki
 Restart App - systemctl restart celestia-appd
