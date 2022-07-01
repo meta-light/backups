@@ -45,7 +45,7 @@
 * Delegate Stake - `celestia-appd tx staking delegate \
 <CelesValoper Address> 1000000utia \
     --from=<Wallet Address> --chain-id=mamaki`
-* Add Wallet - celestia-appd keys add <wallet name>
-* Check Sync Status - curl -s localhost:26657/status | jq .result | jq .sync_info
-* Check Peers - curl -s http://localhost:26657/net_info | jq -r '.result.n_peers'
+* Add Wallet - `celestia-appd keys add <wallet name>`
+* Check Sync Status - `curl -s localhost:26657/status | jq .result | jq .sync_info`
+* Check Peers - `curl -s http://localhost:26657/net_info | jq -r '.result.n_peers'`
 * Additional Peers - https://polkachu.com/testnets/celestia/peers
