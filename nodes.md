@@ -11,13 +11,13 @@
 * Kill App - `sudo pkill -9 celestia-appd`
 
 # Update Celestia App
-`cd $HOME
-rm -rf celestia-app
-git clone https://github.com/celestiaorg/celestia-app.git
-cd celestia-app
-APP_VERSION=$(curl -s https://api.github.com/repos/celestiaorg/celestia-app/releases/latest | jq -r ".tag_name")
-git checkout tags/$APP_VERSION -b $APP_VERSION
-make install`
+* `cd $HOME`
+* `rm -rf celestia-app`
+* `git clone https://github.com/celestiaorg/celestia-app.git`
+* `cd celestia-app`
+* `APP_VERSION=$(curl -s https://api.github.com/repos/celestiaorg/celestia-app/releases/latest | jq -r ".tag_name")`
+* `git checkout tags/$APP_VERSION -b $APP_VERSION`
+* `make install`
 
 # Celestia Bridge 
 * Init Bridge - `celestia bridge init --core.remote tcp://localhost:26657 --core.grpc tcp://localhost:9090`
