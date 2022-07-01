@@ -1,16 +1,15 @@
-## Ironfish Commands 
+# Ironfish Commands 
 
 
-## Celestia Commands
-
-# Celestia App
+# Celestia Commands
+## Celestia App
 * Start Node - `sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f`
 * Open App Logs - `journalctl -u celestia-appd.service -f`
 * App Daemon Status - `systemctl status celestia-appd`
 * Restart App - `systemctl restart celestia-appd`
 * Kill App - `sudo pkill -9 celestia-appd`
 
-# Update Celestia App
+## Update Celestia App
 * `cd $HOME`
 * `rm -rf celestia-app`
 * `git clone https://github.com/celestiaorg/celestia-app.git`
@@ -19,24 +18,25 @@
 * `git checkout tags/$APP_VERSION -b $APP_VERSION`
 * `make install`
 
-# Celestia Bridge 
+## Celestia Bridge 
 * Init Bridge - `celestia bridge init --core.remote tcp://localhost:26657 --core.grpc tcp://localhost:9090`
 * Bridge Logs - `celestia-bridge.service -f`
 
-
-
-Unjail Validator - celestia-appd tx slashing unjail --from=WALLET --chain-id mamaki
-
+## Celestia Validator
+* Unjail Validator - celestia-appd tx slashing unjail --from=WALLET --chain-id mamaki
+* `celestia-appd tx staking delegate \
+<CelesValoper Address> 1000000utia \
+    --from=<Wallet Address> --chain-id=mamaki`
 
 
 Check Sync Status - curl -s localhost:26657/status | jq .result | jq .sync_info
 Check Peers - curl -s http://localhost:26657/net_info | jq -r '.result.n_peers'
 
 
-#Delegate more stake
+Delegate more stake
 celestia-appd tx staking delegate \
-celestiavaloper1q3v5cugc8cdpud87u4zwy0a74uxkk6u43cv6hd 1000000utia \
-    --from=$VALIDATOR_WALLET(redefine this) --chain-id=mamaki
+<CelesValoper Address> 1000000utia \
+    --from=<Wallet Address> --chain-id=mamaki
 
 celestia-appd keys add <wallet name>
 
