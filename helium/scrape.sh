@@ -1,8 +1,8 @@
 #! /bin/bash
-HELIUM_API_URL=https://api.helium.io/
+HELIUM_API_URL=https://api.helium.io
 HELIUM_WALLET=<path-to-wallet>/helium-wallet
 
-declare -A wallets=( ["<ACCT1>"]="<ADDR1>" ["<ACCT2>"]="<ADDR2>" ["<ACCT3>"]="<ADDR3>"
+declare -A wallets=( ["<ACCT1>"]="<ADDR1>" ["<ACCT2>"]="<ADDR2>" ["<ACCT3>"]="<ADDR3>" )
 
 TREASURY="<TREASURY_WALLET_ADDRESS>"
 
