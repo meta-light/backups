@@ -1,15 +1,15 @@
 # Ironfish Commands 
-## Update Ironfish
+### Update Ironfish
 * `cd ironfish`
 * `git pull`
 * `yarn install`
 
-## Start Ironfish
+### Start Ironfish
 * `yarn start start -d default -p 9033`
 * `yarn start miners:start -t 30`
 * `Check Status - yarn start status -f`
 
-## General Commands
+### General Commands
 * Show Balance - `yarn start accounts:balance`
 * Deposit All - `yarn ironfish depositAll`
 * Auto-Deposit - `watch -n 90 yarn ironfish deposit --confirm`
@@ -20,14 +20,14 @@
 
 
 # Celestia Commands
-## Celestia App
+### Celestia App
 * Start Node - `sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f`
 * Open App Logs - `journalctl -u celestia-appd.service -f`
 * App Daemon Status - `systemctl status celestia-appd`
 * Restart App - `systemctl restart celestia-appd`
 * Kill App - `sudo pkill -9 celestia-appd`
 
-## Update Celestia App
+### Update Celestia App
 * `cd $HOME`
 * `rm -rf celestia-app`
 * `git clone https://github.com/celestiaorg/celestia-app.git`
@@ -36,11 +36,11 @@
 * `git checkout tags/$APP_VERSION -b $APP_VERSION`
 * `make install`
 
-## Celestia Bridge 
+### Celestia Bridge 
 * Init Bridge - `celestia bridge init --core.remote tcp://localhost:26657 --core.grpc tcp://localhost:9090`
 * Bridge Logs - `celestia-bridge.service -f`
 
-## Celestia Validator
+### Celestia Validator
 * Unjail Validator - `celestia-appd tx slashing unjail --from=WALLET --chain-id mamaki`
 * Delegate Stake - `celestia-appd tx staking delegate \
 <CelesValoper Address> 1000000utia \
