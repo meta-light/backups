@@ -1,11 +1,12 @@
 # Ironfish Commands 
 ### Update Ironfish
-```cd ironfish```
-`git pull`
-`yarn install`
-
+```
+cd ironfish
+git pull
+yarn install
+```
 ### Start Ironfish
-`yarn start start`
+* `yarn start start`
 `yarn start miners:start -t <numberofthreads>`
 `Check Status - yarn start status -f`
 
