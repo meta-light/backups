@@ -48,8 +48,9 @@
 * yarn ironfish testnet
 
 ## 12 - Mine w/ Host Payouts 
+```
 yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t -10
-
+```
 ## 13 - TV Host
 * https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb
 
