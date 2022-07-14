@@ -39,17 +39,19 @@
 * tsc --version
 
 ## 10 - Install Ironfish 
+* git clone https://github.com/iron-fish/ironfish
+* cd ironfish
+* yarn install
+* cd ironfish-cli
 
-git
-
-## - Configure Testnet 
+## 11 - Configure Testnet 
 * yarn ironfish testnet
 
-## - Mine w/ Host Payouts 
+## 12 - Mine w/ Host Payouts 
 yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t -10
 
-## - TV Host
+## 13 - TV Host
 * https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb
 
-## - Download Discord
+## 14 - Download Discord
 * https://discord.com/api/download?platform=linux&format=deb
