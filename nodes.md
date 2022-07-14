@@ -16,7 +16,10 @@ yarn start miners:start -t <numberofthreads>
 Check Status - yarn start status -f
 ```
 ### General Commands
-* Show Balance - `yarn start accounts:balance`
+* Show Balance -
+``` 
+yarn start accounts:balance
+```
 * Deposit All - `yarn ironfish depositAll`
 * Auto-Deposit - `watch -n 90 yarn ironfish deposit --confirm`
 * Show Address - `yarn ironfish accounts:address`
