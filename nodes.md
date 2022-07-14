@@ -5,7 +5,7 @@ cd ironfish
 git pull
 yarn install
 ```
-### Start Ironfish
+### General Commands
 ```
 yarn start start
 ```
@@ -15,27 +15,27 @@ yarn start miners:start -t <numberofthreads>
 ```
 Check Status - yarn start status -f
 ```
-### General Commands
-Show Balance
 ``` 
 yarn start accounts:balance
 ```
-Deposit All
 ```
 yarn ironfish depositAll
 ```
-Auto-Deposit 
 ```
 watch -n 90 yarn ironfish deposit --confirm
 ```
-Show Address
 ```
 yarn ironfish accounts:address
 ```
-* Join Official Pool - `yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t 30`
-* System Logs - `journalctl -u ironfishd -f`
-* Miner Logs - `journalctl -u ironfishd-miner -f`
-
+```
+yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t 30
+```
+```
+journalctl -u ironfishd -f
+```
+```
+journalctl -u ironfishd-miner -f
+```
 
 # Celestia Commands
 ### Celestia App
