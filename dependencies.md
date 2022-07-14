@@ -13,23 +13,31 @@ sudo apt update
 sudo apt upgrade
 ```
 ## 1 - Install Git
-* sudo apt install git
-* git --version
-
+```
+sudo apt install git
+```
+```
+git --version
+```
 ## 2 - Install Make
-* sudo apt install make
-* make -v
-
+```
+sudo apt install make
+```
 ## 3 - Install Build Essential
-* sudo apt-get install -y build-essential
-
+```
+sudo apt-get install -y build-essential
+```
 ## 4 - Install Curl
-* sudo apt-get install curl zip unzip tar
-
+```
+sudo apt-get install curl zip unzip tar
+```
 ## 5 - Install NodeJS
-* curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-* sudo apt install -y nodejs
-
+```
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+```
+```
+sudo apt install -y nodejs
+```
 ## 6 - Install Rust
 ```
 curl — proto ‘=https’ — tlsv1.2 -sSf https://sh.rustup.rs | sh
