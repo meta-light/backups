@@ -32,27 +32,38 @@
 * sudo npm install -g npm@latest
 
 ## 8 - Install Global Yarn
-* sudo npm install -global yarn
+```sudo npm install -global yarn```
 
 ## 9 - Install Typescript 
 * sudo npm install typescript@latest -g
 * tsc --version
 
 ## 10 - Install Ironfish 
-* git clone https://github.com/iron-fish/ironfish
-* cd ironfish
-* yarn install
-* cd ironfish-cli
-
+```
+git clone https://github.com/iron-fish/ironfish
+```
+```
+cd ironfish
+```
+```
+yarn install
+```
+```
+cd ironfish-cli
+```
 ## 11 - Configure Testnet 
-* yarn ironfish testnet
-
+```
+yarn ironfish testnet
+```
 ## 12 - Mine w/ Host Payouts 
 ```
 yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t -10
 ```
 ## 13 - TV Host
-* https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb
-
+```
+https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb
+```
 ## 14 - Download Discord
-* https://discord.com/api/download?platform=linux&format=deb
+```
+https://discord.com/api/download?platform=linux&format=deb
+```
