@@ -47,3 +47,9 @@ git
 
 # - Mine w/ Host Payouts 
 yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t -10
+
+## - TV Host
+* https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb
+
+## - Download Discord
+* https://discord.com/api/download?platform=linux&format=deb
