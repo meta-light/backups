@@ -79,3 +79,42 @@ yarn ironfish miners:start --pool pool.ironfish.network --address <Public Addres
 ```
 ### 13 - TV Host - [Download](https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb)
 ### 14 - Download Discord - [Download](https://discord.com/api/download?platform=linux&format=deb)
+
+# Ironfish Commands
+### Update Ironfish
+```
+cd ironfish
+git pull
+yarn install
+```
+### General Commands
+```
+yarn start start
+```
+```
+yarn start miners:start -t <numberofthreads>
+```
+```
+Check Status - yarn start status -f
+```
+``` 
+yarn start accounts:balance
+```
+```
+yarn ironfish depositAll
+```
+```
+watch -n 90 yarn ironfish deposit --confirm
+```
+```
+yarn ironfish accounts:address
+```
+```
+yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t 30
+```
+```
+journalctl -u ironfishd -f
+```
+```
+journalctl -u ironfishd-miner -f
+```
