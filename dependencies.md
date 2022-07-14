@@ -29,7 +29,7 @@
 * source $HOME/.cargo/env
 
 ## 7 - Install NPM
-* npm install -g npm@<currentversion>
+* sudo npm install -g npm@latest
 
 ## 8 - Install Global Yarn
 * sudo npm install -global yarn
