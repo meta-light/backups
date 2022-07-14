@@ -1,11 +1,17 @@
 # IF Dependencies
-
 ## 0 - Prep Ubuntu
-* Minnow Bios - F12
-* RAID-> ACHI
-* sudo apt update
-* sudo apt upgrade
-
+```
+Minnow Bios - F12
+```
+```
+RAID-> ACHI
+```
+```
+sudo apt update
+```
+```
+sudo apt upgrade
+```
 ## 1 - Install Git
 * sudo apt install git
 * git --version
@@ -25,19 +31,27 @@
 * sudo apt install -y nodejs
 
 ## 6 - Install Rust
-* curl — proto ‘=https’ — tlsv1.2 -sSf https://sh.rustup.rs | sh
-* source $HOME/.cargo/env
-
+```
+curl — proto ‘=https’ — tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+```
+source $HOME/.cargo/env
+```
 ## 7 - Install NPM
-* sudo npm install -g npm@latest
-
+```
+sudo npm install -g npm@latest
+```
 ## 8 - Install Global Yarn
-```sudo npm install -global yarn```
-
+```
+sudo npm install -global yarn
+```
 ## 9 - Install Typescript 
-* sudo npm install typescript@latest -g
-* tsc --version
-
+```
+sudo npm install typescript@latest -g
+```
+```
+tsc --version
+```
 ## 10 - Install Ironfish 
 ```
 git clone https://github.com/iron-fish/ironfish
