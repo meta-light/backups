@@ -6,10 +6,15 @@ git pull
 yarn install
 ```
 ### Start Ironfish
-* `yarn start start`
-`yarn start miners:start -t <numberofthreads>`
-`Check Status - yarn start status -f`
-
+```
+yarn start start
+```
+```
+yarn start miners:start -t <numberofthreads>
+```
+```
+Check Status - yarn start status -f
+```
 ### General Commands
 * Show Balance - `yarn start accounts:balance`
 * Deposit All - `yarn ironfish depositAll`
