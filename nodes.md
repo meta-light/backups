@@ -16,13 +16,22 @@ yarn start miners:start -t <numberofthreads>
 Check Status - yarn start status -f
 ```
 ### General Commands
-* Show Balance -
+Show Balance
 ``` 
 yarn start accounts:balance
 ```
-* Deposit All - `yarn ironfish depositAll`
-* Auto-Deposit - `watch -n 90 yarn ironfish deposit --confirm`
-* Show Address - `yarn ironfish accounts:address`
+Deposit All
+```
+yarn ironfish depositAll
+```
+Auto-Deposit 
+```
+watch -n 90 yarn ironfish deposit --confirm
+```
+Show Address
+```
+yarn ironfish accounts:address
+```
 * Join Official Pool - `yarn ironfish miners:start --pool pool.ironfish.network --address <Public Address> -t 30`
 * System Logs - `journalctl -u ironfishd -f`
 * Miner Logs - `journalctl -u ironfishd-miner -f`
