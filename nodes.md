@@ -1,6 +1,6 @@
 # Ironfish Commands 
 ### Update Ironfish
-`cd ironfish`
+```cd ironfish```
 `git pull`
 `yarn install`
 
