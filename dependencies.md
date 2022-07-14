@@ -1,11 +1,7 @@
 # IF Dependencies
 ### 0 - Prep Ubuntu
-```
-Minnow Bios - F12
-```
-```
-RAID-> ACHI
-```
+* Minnow Bios - F12
+* RAID-> ACHI
 ```
 sudo apt update
 ```
