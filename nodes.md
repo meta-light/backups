@@ -1,13 +1,13 @@
 # Ironfish Commands 
 ### Update Ironfish
-* `cd ironfish`
-* `git pull`
-* `yarn install`
+`cd ironfish`
+`git pull`
+`yarn install`
 
 ### Start Ironfish
-* `yarn start start -d default -p 9033`
-* `yarn start miners:start -t 30`
-* `Check Status - yarn start status -f`
+`yarn start start`
+`yarn start miners:start -t <numberofthreads>`
+`Check Status - yarn start status -f`
 
 ### General Commands
 * Show Balance - `yarn start accounts:balance`
