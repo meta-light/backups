@@ -21,11 +21,11 @@
 * sudo apt-get install curl zip unzip tar
 
 ## 5 - Install NodeJS
----- line from digitalspace
+* curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 * sudo apt install -y nodejs
 
 ## 6 - Install Rust
----- line from above 
+* curl — proto ‘=https’ — tlsv1.2 -sSf https://sh.rustup.rs | sh
 * source $HOME/.cargo/env
 
 ## 7 - Install NPM
