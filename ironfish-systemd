@@ -1,0 +1,11 @@
+[Unit]
+Description=Ironfish Node
+After=network-online.target
+[Service]
+User=root
+ExecStart=/usr/bin/yarn --cwd /root/ironfidh/ironfish-cli/ ironfish start
+Restart=always
+RestartSec=10
+LimitNOFILE=10000
+[Install]
+WantedBy=multi-user.target
