@@ -3,7 +3,7 @@ Description=Ironfish Node
 After=network-online.target
 [Service]
 User=root
-ExecStart=/usr/bin/yarn --cwd /root/ironfidh/ironfish-cli/ ironfish start
+ExecStart=/usr/bin/yarn --cwd /home/host ironfish start
 Restart=always
 RestartSec=10
 LimitNOFILE=10000
