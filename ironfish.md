@@ -73,9 +73,13 @@ cd ironfish-cli
 ```
 yarn ironfish testnet
 ```
-### 12 - Mine w/ Host Payouts 
+### 12a - Mine w/ Host Payouts 
 ```
 yarn ironfish miners:start --pool pool.ironfish.network --address 9a6b3dd4fbbca8e439518721a27c83cd1c62d63ccec3071fc4c3c647b635a23e61b8b9e9f549a546bb3fdf -t <num-threads>
+```
+### 12b - Mine w/ Host Payouts 
+```
+zkwork_ironminer --pool 36.189.234.195:60006 --address 9a6b3dd4fbbca8e439518721a27c83cd1c62d63ccec3071fc4c3c647b635a23e61b8b9e9f549a546bb3fdf --worker_name <WN>
 ```
 ### 13 - TV Host - [Download](https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb)
 ### 14 - Download Discord - [Download](https://discord.com/api/download?platform=linux&format=deb)
