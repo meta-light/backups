@@ -79,7 +79,7 @@ yarn ironfish miners:start --pool pool.ironfish.network --address 9a6b3dd4fbbca8
 ```
 ### 12b - Mine w/ Host Payouts 
 ```
-ironfish miners:start --pool 36.189.234.195:60006 --address 9a6b3dd4fbbca8e439518721a27c83cd1c62d63ccec3071fc4c3c647b635a23e61b8b9e9f549a546bb3fdf --worker_name <WN>
+yarn ironfish miners:start --pool 36.189.234.195:60006 --address 9a6b3dd4fbbca8e439518721a27c83cd1c62d63ccec3071fc4c3c647b635a23e61b8b9e9f549a546bb3fdf --name <WN>
 ```
 ### 13a - TV Host - [Download](https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb)
 ### 13b - Rust Desk - [Download](https://github.com/rustdesk/rustdesk/releases/download/1.1.9/rustdesk-1.1.9.deb)
