@@ -1,20 +1,35 @@
 # Celestia Commands
 ### Celestia App
-* Start Node - `sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f`
-* Open App Logs - `journalctl -u celestia-appd.service -f`
-* App Daemon Status - `systemctl status celestia-appd`
-* Restart App - `systemctl restart celestia-appd`
-* Kill App - `sudo pkill -9 celestia-appd`
+* Start Node 
+```
+sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f
+```
+* Open App Logs
+ ```
+journalctl -u celestia-appd.service -f
+```
+* App Daemon Status
+```
+systemctl status celestia-appd
+```
+* Restart App
+```systemctl restart celestia-appd
+```
+* Kill App
+```
+sudo pkill -9 celestia-appd
+```
 
 ### Update Celestia App
-* `cd $HOME`
-* `rm -rf celestia-app`
-* `git clone https://github.com/celestiaorg/celestia-app.git`
-* `cd celestia-app`
-* `APP_VERSION=$(curl -s https://api.github.com/repos/celestiaorg/celestia-app/releases/latest | jq -r ".tag_name")`
-* `git checkout tags/$APP_VERSION -b $APP_VERSION`
-* `make install`
-
+```
+cd $HOME
+rm -rf celestia-app
+git clone https://github.com/celestiaorg/celestia-app.git
+cd celestia-app`
+APP_VERSION=$(curl -s https://api.github.com/repos/celestiaorg/celestia-app/releases/latest | jq -r ".tag_name")
+git checkout tags/$APP_VERSION -b $APP_VERSION
+make install
+```
 ### Celestia Bridge 
 * Init Bridge
 ```
