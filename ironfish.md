@@ -81,8 +81,9 @@ yarn ironfish miners:start --pool pool.ironfish.network --address 9a6b3dd4fbbca8
 ```
 ironfish miners:start --pool 36.189.234.195:60006 --address 9a6b3dd4fbbca8e439518721a27c83cd1c62d63ccec3071fc4c3c647b635a23e61b8b9e9f549a546bb3fdf --worker_name <WN>
 ```
-### 13 - TV Host - [Download](https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb)
-### 14 - Download Discord - [Download](https://discord.com/api/download?platform=linux&format=deb)
+### 13a - TV Host - [Download](https://download.teamviewer.com/download/linux/teamviewer-host_amd64.deb)
+### 13b - Rust Desk - [Download](https://github.com/rustdesk/rustdesk/releases/download/1.1.9/rustdesk-1.1.9.deb)
+### 14 - Discord - [Download](https://discord.com/api/download?platform=linux&format=deb)
 
 # Ironfish Commands
 ### Update Ironfish
