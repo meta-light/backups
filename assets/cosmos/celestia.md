@@ -13,7 +13,8 @@ journalctl -u celestia-appd.service -f
 systemctl status celestia-appd
 ```
 * Restart App
-```systemctl restart celestia-appd
+```
+systemctl restart celestia-appd
 ```
 * Kill App
 ```
