@@ -27,3 +27,16 @@ journalctl -u ironfishd -f
 journalctl -u ironfishd-miner -f
 ```
 # Celestia Quick Commands
+
+```
+curl -s localhost:26657/status | jq .result | jq .sync_info
+```
+```
+sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f
+```
+```
+systemctl restart celestia-appd
+```
+```
+sudo pkill celestia-appd
+```
