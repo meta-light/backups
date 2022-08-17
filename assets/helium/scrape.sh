@@ -9,11 +9,11 @@ TREASURY="<TREASURY_WALLET_ADDRESS>"
 for key in "${!wallets[@]}"; do
   URL="$HELIUM_API_URL/v1/accounts/${wallets[$key]}"
   BALANCE=$(curl -s $URL | jq -r .data.balance)
-  CLEAR_BALANCE=$((($BALANCE / 100000000) - 1))
-  echo $HELIUM_WALLET -f "$key.key" pay one $TREASURY $CLEAR_BALANCE --commit
-  echo $HELIUM_WALLET -f "$key.key" pay one $TREASURY 1 --commit
-  echo "... sleeping for 15 seconds"
-  sleep 15
+  CLEAR_BALANCE=$(jq -n $BALANCE/100000000-1)
+  $HELIUM_WALLET -f "$key.key" pay one $TREASURY $CLEAR_BALANCE --commit
+  #$HELIUM_WALLET -f "$key.key" pay one $TREASURY 1 --commit
+  echo "... sleeping for 5 seconds"
+  sleep 5
 done
 
 #https://www.fairspot.host/hnt-export-mining-tax
