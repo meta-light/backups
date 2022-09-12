@@ -1,8 +1,10 @@
 # Celestia Commands
 ### Celestia App
-* Start Node 
+* RPC Endpoints 
 ```
-sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f
+--node https://rpc-mamaki.pops.one
+--core.remote tcp://localhost:26657 --core.grpc tcp://localhost:9090
+--tcp 127.0.0.1:26657
 ```
 * Open App Logs
  ```
@@ -32,6 +34,10 @@ git checkout tags/$APP_VERSION -b $APP_VERSION
 make install
 ```
 ### Celestia Bridge 
+* Start Bridge 
+```
+sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f
+```
 * Init Bridge
 ```
 celestia bridge init --core.remote tcp://localhost:26657 --core.grpc tcp://localhost:9090
