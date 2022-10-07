@@ -1,0 +1,15 @@
+S:\nacarpin\ISYS 3393\Project 1\Project 1\bin\Debug\Project 1.exe.config
+S:\nacarpin\ISYS 3393\Project 1\Project 1\bin\Debug\Project 1.exe
+S:\nacarpin\ISYS 3393\Project 1\Project 1\bin\Debug\Project 1.pdb
+S:\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+S:\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+S:\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.exe
+S:\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.pdb
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.exe
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.pdb
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\bin\Debug\Project 1.exe.config
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\bin\Debug\Project 1.exe
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\bin\Debug\Project 1.pdb
+\\wfs.uark.edu\Enterprise$\nacarpin\ISYS 3393\Project 1\Project 1\obj\Debug\Project 1.csproj.SuggestedBindingRedirects.cache
