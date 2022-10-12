@@ -1,0 +1,11 @@
+S:\nacarpin\ISYS 3393\Project Two\Project Two\bin\Debug\Project Two.exe.config
+S:\nacarpin\ISYS 3393\Project Two\Project Two\bin\Debug\Project Two.exe
+S:\nacarpin\ISYS 3393\Project Two\Project Two\bin\Debug\Project Two.pdb
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project Two.csproj.AssemblyReference.cache
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project Two.csproj.SuggestedBindingRedirects.cache
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project_Two.Form1.resources
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project_Two.Properties.Resources.resources
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project Two.csproj.GenerateResource.cache
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project Two.csproj.CoreCompileInputs.cache
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project Two.exe
+S:\nacarpin\ISYS 3393\Project Two\Project Two\obj\Debug\Project Two.pdb
