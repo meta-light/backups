@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web 3 Demo</title>
+    <script src='web3.min.js'></script>
+</head>
+<body>
+
+    Web 3 Demo - Meta Light
+    <br />
+    <button id= "displayCoolNumber"    onclick="displayCoolNumber();">Display Cool Number</button><br/>
+    <button id = "incrementCoolNumber" onclick="incrementCoolNumber();">Increment Cool Number</button><br/>
+    <button id = "decrementCoolNumber" onclick="decrementCoolNumber();">Decrement Cool Number</button><br/>
+    <button id = "resetCoolNumber" onclick="resetCoolNumber();">Reset Cool Number</button>
+    <input type="text" id="'resetAmount" name="resetAmount"/><br/>
+    <br /><br />
+    Status: <span id="status">Loading...</span>
+
+    <script type="text/javascript">
+        var contractAddress = '0xF01A625e4dFE8DAd93F35026DE30482D6003EcC8';
+        var abi = [
+	{
+		"inputs": [],
+		"name": "decrementCoolNumber",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "incrementCoolNumber",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "_coolNumber",
+				"type": "uint256"
+			}
+		],
+		"name": "setCoolNumber",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "coolNumber",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
+        async function loadWeb3() {
+            if (window.ethereum) {
+                window.web3 = new Web3(window.ethereum);
+                window.ethereum.enable();
+            }
+        }
+
+        async function loadContract() {
+            return await new window.web3.eth.Contract(abi, contractAddress);
+        }
+
+        async function displayCoolNumber() {
+            updateStatus('fetching Cool Number...');
+            const coolNumber = await window.contract.methods.coolNumber().call();
+            updateStatus(`coolNumber: ${coolNumber}`);
+        }
+
+        async function getCurrentAccount() {
+            const accounts = await window.web3.eth.getAccounts();
+            return accounts[0];
+        }
+
+        async function incrementCoolNumber() {
+            const value = 1;
+            updateStatus(`Incrementing coolNumber by ${value}`);
+            const account = await getCurrentAccount();
+            const coolNumber = await window.contract.methods.incrementCoolNumber().send({ from: account });
+            updateStatus('Incremented by 1.');
+        }
+
+        async function resetCoolNumber() {
+            const value = 42;
+            updateStatus(`Reset current number to ${value}`);
+            const account = await getCurrentAccount();
+            const coolNumber = await window.contract.methods.setCoolNumber(value).send({ from: account });
+            updateStatus('Reset to 42.');
+        }
+        async function decrementCoolNumber() {
+            const value = 1;
+            updateStatus(`Decrementing coolNumber by ${value}`);
+            const account = await getCurrentAccount();
+            const coolNumber = await window.contract.methods.decrementCoolNumber().send({ from: account });
+            updateStatus('Decremented by 1.');
+        }
+
+        async function load() {
+            await loadWeb3();
+            window.contract = await loadContract();
+            updateStatus('Ready!');
+        }
+
+        function updateStatus(status) {
+            const statusEl = document.getElementById('status');
+            statusEl.innerHTML = status;
+            console.log(status);
+        }
+
+        async function setCoolNumber() {
+            const value = 42;
+            updateStatus(`Reset coolNumber with ${value}`);
+            const account = await getCurrentAccount();
+            const coolNumber = await window.contract.methods.setCoolNumber(value).send({ from: account });
+            updateStatus('Reset.');
+        } 
+        load();
+    </script>
+</body>
+</html>
