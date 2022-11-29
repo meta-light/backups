@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crypto Portfolio Tracker</title>
+    <script src='web3.min.js'></script>
+</head>
+<body>
+    Portfolio Interface 
+    <br />
+    BTC Shares: <input type="value" id="btcShares"></input><button id = "getBTCPrice" onclick="getLatestPriceBTCUSD();">Get BTC Price</button><br/>
+    LINK Shares: <input type="value" id="linkShares"></input><button id = "getLINKPrice" onclick="getLatestPriceLINKUSD();">Get LINK Price</button><br/>
+    ETH Shares: <input type="value" id="ethShares"></input><button id = "getETHPrice" onclick="getLatestPriceETHUSD();">Get ETH Price</button><br/>
+    Update Portfolio Value: <button id = "UPDPRT" onclick="updatePortfolio();">Update Portfolio</button>
+    <br /><br />
+    Status: <span id="status">Loading...</span>
+    <br /><br />
+    Portfolio: <span id="PortVal">$0</span>
+
+
+    <script type="text/javascript">
+        var contractAddress = '0x8D9470CaE8050a1bcEaf95D18D467ae7A6dE7799';
+        var abi = [
+	{
+		"inputs": [],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [],
+		"name": "getLatestPriceBTCUSD",
+		"outputs": [
+			{
+				"internalType": "int256",
+				"name": "",
+				"type": "int256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "getLatestPriceETHUSD",
+		"outputs": [
+			{
+				"internalType": "int256",
+				"name": "",
+				"type": "int256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "getLatestPriceLINKUSD",
+		"outputs": [
+			{
+				"internalType": "int256",
+				"name": "",
+				"type": "int256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
+
+		async function loadWeb3() { console.log("loading Web3");
+         if (window.ethereum) {
+        		window.web3 = new Web3(window.ethereum);
+        		window.ethereum.enable();
+        }
+        }
+        async function loadContract() { console.log("loading contract")
+            return await new window.web3.eth.Contract(abi, contractAddress);
+        }
+        async function getCurrentAccount() { console.log("getting account")
+            const accounts = await window.web3.eth.getAccounts();
+            return accounts[0];
+        }
+        async function load() { console.log("Loading Form")
+            await loadWeb3();
+            window.contract = await loadContract();
+            updateStatus('Ready!');
+        }
+        function updateStatus(status) { 
+            const statusEl = document.getElementById('status');
+            statusEl.innerHTML = status;
+            console.log(status);
+        }
+
+        function updatePortVal(status) { 
+            const PortValEl = document.getElementById('PortVal');
+            PortValEl.innerHTML = PortVal;
+            console.log(PortVal);
+        }
+
+        async function getLatestPriceBTCUSD() {
+            updateStatus('Getting BTC/USD...');
+            const BTCUSD = await window.contract.methods.getLatestPriceBTCUSD().call();
+            updateStatus(`BTC/USD = $  ${BTCUSD}`);
+        }
+
+        async function getLatestPriceETHUSD() {
+            updateStatus('Getting ETH/USD...');
+            const ETHUSD = await window.contract.methods.getLatestPriceETHUSD().call();
+            updateStatus(`ETH/USD = $ ${ETHUSD}`);
+        }
+
+        async function getLatestPriceLINKUSD() {
+            updateStatus('Getting LINK/USD...');
+            const LINKUSD = await window.contract.methods.getLatestPriceLINKUSD().call();
+            updateStatus(`LINK/USD = $ ${LINKUSD}`);
+        }
+        //Have this almost working but cant figure out how to call what's in the user input box
+        async function updatePortfolio() {
+            var PLINKUSD = ParseINT(LINKUSD);
+            var PBTCUSD = ParseINT(BTCUSD);
+            var PETHUSD = ParseINT(ETHUSD);
+            var PlinkShares = ParseINT(getElementById.linkShares);
+            var PbtcShares = ParseINT(getElementById.btcShares); 
+            var PethShares = ParseINT(getElementById.ethShares);
+            const PortfolioValue = (PLINKUSD * plinkShares) + (PETHUSD * pethShares) + (PBTCUSD * PbtcShares);
+            updatePortVal(`Portfolio Value: $ ${PortfolioValue}`);
+        }
+        updatePortVal();
+        load();
+    </script>
+</body>
+</html>

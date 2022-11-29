@@ -1,0 +1,11 @@
+S:\nacarpin\ISYS 3393\Project 4\Project 4\bin\Debug\Project 4.exe.config
+S:\nacarpin\ISYS 3393\Project 4\Project 4\bin\Debug\Project 4.exe
+S:\nacarpin\ISYS 3393\Project 4\Project 4\bin\Debug\Project 4.pdb
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project 4.csproj.AssemblyReference.cache
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project 4.csproj.SuggestedBindingRedirects.cache
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project_4.Form1.resources
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project_4.Properties.Resources.resources
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project 4.csproj.GenerateResource.cache
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project 4.exe
+S:\nacarpin\ISYS 3393\Project 4\Project 4\obj\Debug\Project 4.pdb

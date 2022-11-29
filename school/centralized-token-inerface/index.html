@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CC Token Interface</title>
+    <script src='web3.min.js'></script>
+</head>
+<body>
+    CC Token Interface
+    <br />
+    <button id= "CleanAcct" onclick="CleanAcct();">Clean Account</button><br/>
+    <button id = "CreateNewAccount" onclick="CreateNewAccount();">Create New Account</button><br/>
+    <button id = "mint" onclick="mint();">Decrement Cool Number</button><br/>
+    <button id = "send" onclick="send();">Reset Cool Number</button><br/>
+    <button id = "balances" onclick="balances();">Display User Balances</button><br/>
+    <button id = "minter" onclick="minter();">Display Minter</button><br/>
+    <button id = "SocialScore" onclick="SocialScore();">Display User Social Score</button><br/>
+    <button id = "WhiteList" onclick="WhiteList();">Whitelist User</button><br/>
+    Address Input<input type="value" id="inputaddress"></body></input><br/>
+	Number Input<input type="value" id="inputnumber"></body></input><br/>
+    <br /><br />
+    Status: <span id="status">Loading...</span>
+
+    <script type="text/javascript">
+        var contractAddress = '0xC3494FF46c135676311E91345BA51883C22e29b7';
+        var abi = [
+	{
+		"inputs": [],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "requested",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "available",
+				"type": "uint256"
+			}
+		],
+		"name": "InsufficientBalance",
+		"type": "error"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "bool",
+				"name": "listed",
+				"type": "bool"
+			}
+		],
+		"name": "NotWhiteListed",
+		"type": "error"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "score",
+				"type": "uint256"
+			}
+		],
+		"name": "nonReceiver",
+		"type": "error"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "score",
+				"type": "uint256"
+			}
+		],
+		"name": "nonSender",
+		"type": "error"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"internalType": "address",
+				"name": "from",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "address",
+				"name": "to",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "amount",
+				"type": "uint256"
+			}
+		],
+		"name": "Sent",
+		"type": "event"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "account",
+				"type": "address"
+			}
+		],
+		"name": "CleanAcct",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "CreateNewUser",
+				"type": "address"
+			}
+		],
+		"name": "CreateNewAccount",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"name": "SocialScore",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"name": "WhiteList",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"name": "balances",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "receiver",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "amount",
+				"type": "uint256"
+			}
+		],
+		"name": "mint",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "minter",
+		"outputs": [
+			{
+				"internalType": "address",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "receiver",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "amount",
+				"type": "uint256"
+			}
+		],
+		"name": "send",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]
+
+		async function loadWeb3() { console.log("loading Web3");
+         if (window.ethereum) {
+        		window.web3 = new Web3(window.ethereum);
+        		window.ethereum.enable();
+        }
+        }
+        async function loadContract() { console.log("loading contract")
+            return await new window.web3.eth.Contract(abi, contractAddress);
+        }
+        async function getCurrentAccount() { console.log("getting account")
+            const accounts = await window.web3.eth.getAccounts();
+            return accounts[0];
+        }
+        async function load() { console.log("Loading Form")
+            await loadWeb3();
+            window.contract = await loadContract();
+            updateStatus('Ready!');
+        }
+        function updateStatus(status) { 
+            const statusEl = document.getElementById('status');
+            statusEl.innerHTML = status;
+            console.log(status);
+        }
+        async function minter() {
+            updateStatus('Getting Minter...');
+            const MNTR = await window.contract.methods.minter().call(); // doesnt work?
+            updateStatus(`Minter: ${MNTR}`);
+        }
+        
+        
+        async function CleanAcct() {
+            updateStatus('Cleaning Account...');
+            const CleanedResult = await window.contract.methods.CleanAcct().call(); //requires user input
+            updateStatus(`Cleaned Account Address: ${CleanedResult}`);
+        }
+
+        async function CreateNewAccount() {
+            updateStatus('Creating New Account...');
+            const NewAcct = await window.contract.methods.CreateNewAccount().call(); //requires user input
+            updateStatus(`New Account Address: ${NewAcct}`);
+        }
+
+        async function mint() {
+            updateStatus('Minting...');
+            const MintResult = await window.contract.methods.mint().call(); //requires user input
+            updateStatus(`Minted`);
+        }
+
+        async function send() {
+            updateStatus('Sending');
+            const SendResult = await window.contract.methods.send().call(); //requires user input
+            updateStatus(`Sent`);
+        }
+
+        async function balances() {
+            updateStatus('Displaying User Balance...');
+            const BalanceResult = await window.contract.methods.balances().call(); //requires user input
+            updateStatus(`User Balance: ${BalanceResult}`);
+        }
+        
+        async function SocialScore() {
+            updateStatus('Updating Social Score...');
+            const SSResult = await window.contract.methods.SocialScore().call(); //requires user input
+            updateStatus(`Updated Social Score: ${SSResult}`);
+        }
+
+        async function WhiteList() {
+			const value = document.getElementById('inputaddress').value; //Is this right?
+            updateStatus('Updating Whitelist...');
+            const WhitelistResult = await window.contract.methods.WhitelistResult().call(value); //requires user input
+            updateStatus(`Whitelisted: ${WhitelistResult}`);
+        }
+
+		async function test() {
+			const value = document.getElementById('inputaddress').value;
+			console.log(value);
+			
+		}
+        
+
+        load();
+    </script>
+</body>
+</html>
