@@ -70,3 +70,19 @@ curl -s localhost:26657/status | jq .result | jq .sync_info
 curl -s http://localhost:26657/net_info | jq -r '.result.n_peers'
 ```
 * Additional Peers - https://polkachu.com/testnets/celestia/peers
+
+
+# Celestia Quick Commands
+
+```
+curl -s localhost:26657/status | jq .result | jq .sync_info
+```
+```
+sudo systemctl start celestia-bridge && sudo journalctl -u  celestia-bridge.service -f
+```
+```
+systemctl restart celestia-appd
+```
+```
+sudo pkill celestia-appd
+```
