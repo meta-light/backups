@@ -13,7 +13,6 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 | 5x 6 Inch Cat6 Cables | $10 | [link](https://www.amazon.com/iMBAPrice-Mixed-Colors-Snagless-Ethernet/dp/B00FH7B76M/ref=sr_1_19?crid=1LVRCKAIUDJZ0&keywords=6+inch+cat6&qid=1673286552&s=industrial&sprefix=6+inch+cat6%2Cindustrial%2C107&sr=1-19) | 
 | 2x Micro HDMI adapter | $10 | [link](https://www.amazon.com/GANA-Adapter-Female-Action-Supported/dp/B07K21HSQX/ref=sxin_14_pa_sp_search_thematic-asin_sspa?content-id=amzn1.sym.075b4844-907e-4733-ac4c-baaec37ffd39%3Aamzn1.sym.075b4844-907e-4733-ac4c-baaec37ffd39&crid=20HUJHZKHM69E&cv_ct_cx=micro+hdmi&keywords=micro+hdmi&pd_rd_i=B07K21HSQX&pd_rd_r=5ec13119-1361-4ba3-99bc-607726ab6542&pd_rd_w=X0LAq&pd_rd_wg=ziNXA&pf_rd_p=075b4844-907e-4733-ac4c-baaec37ffd39&pf_rd_r=ES6EMQK54824TFRVH382&qid=1673286630&sprefix=micro+hdmi%2Caps%2C115&sr=1-4-4a643ae4-6005-4b15-bc31-2c5125e2b25b-spons&psc=1) |
 
-
 ## Software 
 * K3
 * Ceph
@@ -21,7 +20,6 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 * https://github.com/geerlingguy/deskpi-super6c-cluster
 * https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
 * https://www.youtube.com/watch?v=X9fSMGkjtug&list=WL&index=1 Kubrenettes
-
 
 ## Protocols
 * Mysterium $MYST - CPU: 1 core -RAM: 1GB -DISK: 500MB 
@@ -38,12 +36,6 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 * BlockPi
 * POKT
 * Umbrel
-
-https://www.unicefinnovationfund.org/apply/frontier-tech-startups
-https://grants.stacks.org/
-https://share.hsforms.com/1GE1hYdApQGaDiCgaiWMXHA5lohw
-https://www.algorand.foundation/grants
-https://github.com/w3f/Grants-Program#1-application
 
 * https://twitter.com/META_DREAMER/status/1553454222489702401?s=20&t=RXPTUOYUuT6KO-iLMgL44g
 * https://computer-science-and-computer-engineering.uark.edu/research/big-data-data-analytics-and-blockchain.php
