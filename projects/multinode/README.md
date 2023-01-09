@@ -7,7 +7,6 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 * https://twitter.com/META_DREAMER/status/1553454222489702401?s=20&t=RXPTUOYUuT6KO-iLMgL44g
 * https://twitter.com/AriSokolov/status/1537454383746600963?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 * https://twitter.com/level39/status/1548550264218583040?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
-* https://twitter.com/META_DREAMER/status/1553454222489702401?s=20&t=muQDtfqu5YCD3SuDSoSfTw
 
 ## Hardware Recipt
 | Hardware | Cost | Link |
