@@ -3,23 +3,16 @@ Research around the application of low-power cluster computing in blockchain nod
 
 Most blockchain nodes are deployed on personal computers. 90% of these nodes are lightweight and require less than 10% of the compute power present on a standard PC, but are deployed in cush a way that thier efficency and carbon footprint reduction are not realized. 
 
-
-
-## Hardware
+## Hardware Recipt
 | Hardware | Cost | Link |
 | ---------|------|----- |
-| Turing Pi V2 | $199 | [link](https://turingpi.com/) |
-| Raspberry Pi CM4 | $100 | [link](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000) |
-| EVGA SuperNOVA 550 | $120 | [link](https://www.amazon.com/EVGA-Supernova-Modular-Warranty-220-GA-0550-X1/dp/B07WNXY6T5/ref=sr_1_9?crid=1GZCWZ0EX96GU&keywords=power+supply+eco&qid=1660074155&sprefix=power+supply+eco%2Caps%2C100&sr=8-9) |
-| Jetson Xavier NX 16GB Module | $579 | [link](https://www.arrow.com/en/products/900-83668-0030-000/nvidia) |
-| Jetson TX2 NX Module | $199 | [link](https://www.arrow.com/en/products/900-13636-0010-000/nvidia) |
-| Jetson Nano | $129 | [link](https://www.arrow.com/en/products/900-13448-0020-000/nvidia) |
-| RasPi Adapter | $20 | [link](https://www.spotpear.com/index/product/detail/id/856.html)
-| PoE Switch | $50 | [link](https://www.amazon.com/TP-Link-Compliant-Shielded-Optimization-TL-SG1005P/dp/B07PPJTR15/ref=sr_1_9?crid=28RQ54F4P87PD&keywords=poe+switch&qid=1661007238&sprefix=poe+switch%2Caps%2C166&sr=8-9) |
-| USB Hub | $30 | [link](https://www.amazon.com/vantisan-Powered-Splitter-Charging-Switches/dp/B0B18H7J58/ref=sr_1_2_sspa?crid=2REFTD059FP8&keywords=powered+usb+hub&qid=1661006726&sprefix=powered+usb+hub%2Caps%2C121&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOUY5TERLMjBVWDYwJmVuY3J5cHRlZElkPUEwMTA0OTE5MjJDMzBWTkpZNEZCWCZlbmNyeXB0ZWRBZElkPUEwNzQyMzQwMVIxOFMzQzJBMU5YTSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
+| 4x Raspberry Pi 4B | $180 | [link](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) |
+| PoE Switch | $40 | [link](https://www.amazon.com/TP-Link-Compliant-Shielded-Optimization-TL-SG1005P/dp/B07PPJTR15/ref=sr_1_9?crid=28RQ54F4P87PD&keywords=poe+switch&qid=1661007238&sprefix=poe+switch%2Caps%2C166&sr=8-9) |
+| Cluster Case | $65 | [link](https://www.amazon.com/dp/B0B3WTQSGL?psc=1&ref=ppx_yo2ov_dt_b_product_details) |
+| 4x PoE Splitters | $30 | [link](https://www.amazon.com/dp/B08HZFS3PM?psc=1&ref=ppx_yo2ov_dt_b_product_details) |
+| 5x 6 Inch Cat6 Cables | $10 | [link](https://www.amazon.com/iMBAPrice-Mixed-Colors-Snagless-Ethernet/dp/B00FH7B76M/ref=sr_1_19?crid=1LVRCKAIUDJZ0&keywords=6+inch+cat6&qid=1673286552&s=industrial&sprefix=6+inch+cat6%2Cindustrial%2C107&sr=1-19) | 
+| 2x Micro HDMI adapter | $10 | [link](https://www.amazon.com/GANA-Adapter-Female-Action-Supported/dp/B07K21HSQX/ref=sxin_14_pa_sp_search_thematic-asin_sspa?content-id=amzn1.sym.075b4844-907e-4733-ac4c-baaec37ffd39%3Aamzn1.sym.075b4844-907e-4733-ac4c-baaec37ffd39&crid=20HUJHZKHM69E&cv_ct_cx=micro+hdmi&keywords=micro+hdmi&pd_rd_i=B07K21HSQX&pd_rd_r=5ec13119-1361-4ba3-99bc-607726ab6542&pd_rd_w=X0LAq&pd_rd_wg=ziNXA&pf_rd_p=075b4844-907e-4733-ac4c-baaec37ffd39&pf_rd_r=ES6EMQK54824TFRVH382&qid=1673286630&sprefix=micro+hdmi%2Caps%2C115&sr=1-4-4a643ae4-6005-4b15-bc31-2c5125e2b25b-spons&psc=1) |
 
-
-https://www.amazon.com/KENUCO-Panels-Shelves-Active-Components/dp/B07QGXLGLY/ref=sr_1_5?crid=GAUSP2RPP1PL&keywords=mini%2Bpatch%2Bpanel%2Brack&qid=1666103088&qu=eyJxc2MiOiIxLjgyIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=mini%2Bpatch%2Bpannel%2B%2Caps%2C92&sr=8-5&th=1
 
 ## Software 
 * K3
@@ -52,15 +45,9 @@ https://share.hsforms.com/1GE1hYdApQGaDiCgaiWMXHA5lohw
 https://www.algorand.foundation/grants
 https://github.com/w3f/Grants-Program#1-application
 
-Accounting: 
-Maly RPI - 3 so far @ $80
-
 * https://twitter.com/META_DREAMER/status/1553454222489702401?s=20&t=RXPTUOYUuT6KO-iLMgL44g
 * https://computer-science-and-computer-engineering.uark.edu/research/big-data-data-analytics-and-blockchain.php
 * https://artp.uark.edu/contact/
 * https://twitter.com/AriSokolov/status/1537454383746600963?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 * https://twitter.com/level39/status/1548550264218583040?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ
 * https://twitter.com/META_DREAMER/status/1553454222489702401?s=20&t=muQDtfqu5YCD3SuDSoSfTw
-
-
-
