@@ -23,12 +23,12 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 * https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
 
 ## Protocols
-* Mysterium $MYST - CPU: 1 core -RAM: 1GB -DISK: 500MB 
-* Presearch $PRE - CPU: 1 core -RAM: 1GB -DISK: 1GB - 4000 PRE stake 
+* Mysterium $MYST - CPU: 1 core -RAM: 1GB -DISK: 500MB - https://github.com/mysteriumnetwork/node
 * Storj $STORJ - CPU: 1 Core - 550 GB disk - 2TB Bandwidth/month
-* Pocket Network $POKT - 4 core| 16 GB RAM | 200GB Disk
 * PKT $PKT - Raspberry Pi compatible
-* Flux $FLUX - 2 Cores 8 GB RAM 220 GB SSD/NVME
 * Subspace
 * Duino Coin
 * Umbrel
+
+
+Add previous version to spreadheet
