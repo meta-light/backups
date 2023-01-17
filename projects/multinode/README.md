@@ -29,6 +29,3 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 * Subspace
 * Duino Coin
 * Umbrel
-
-
-Add previous version to spreadheet
