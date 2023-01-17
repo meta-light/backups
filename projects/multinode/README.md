@@ -20,7 +20,6 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 
 ## Software 
 * K3s
-
 * https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
 
 ## Protocols
@@ -30,10 +29,6 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 * Pocket Network $POKT - 4 core| 16 GB RAM | 200GB Disk
 * PKT $PKT - Raspberry Pi compatible
 * Flux $FLUX - 2 Cores 8 GB RAM 220 GB SSD/NVME
-* Chia
 * Subspace
 * Duino Coin
-* Ankr
-* BlockPi
-* POKT
 * Umbrel
