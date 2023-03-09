@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Hello World!</title>
+        <!-- Include the Web3.js file from a cdn or locally-->
+        <script type="text/javascript" src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
+        <!-- Include the info.js file to load ABI and address-->
+        <script src="info.js"></script>        
+
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+    </body>
+    <!-- Javascript block to connect to Web3.JS when loaded-->
+    <script>
+
+        //Define the provider of web3, either locally or injected
+        this.web3 = new Web3(
+            (window.web3 && window.web3.currentProvider) ||
+            new Web3.providers.HttpProvider(this.Contract.endpoint));
+
+        //output the current provider to ensure it is working
+        console.log(web3.currentProvider);
+        
+        //Enable the Ethereum Package   
+        window.ethereum.enable();
+        
+        //Output console information
+        console.log("enabled ethereum");
+        console.log("web3::::");
+        console.log(this.web3);
+
+        //output the accounts tied to MetaMask to verify connection
+        web3.eth.getAccounts().then(console.log);
+
+        //Save the accounts from MetaMask into an "theAccounts" variable
+        web3.eth.getAccounts().then(function(acc){ theAccounts = acc })
+
+        //Copy the ABI from the smart contract in Remix
+        console.log(abiInfo);
+        //Save the address of the contract actually deployed
+        console.log(contractAddress);        
+    </script>
+</html>
