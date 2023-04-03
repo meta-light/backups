@@ -20,12 +20,12 @@ Most blockchain nodes are deployed on personal computers. 90% of these nodes are
 
 ## Software 
 * K3s
-* https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
+* Ansible
 
 ## Protocols
-* Mysterium $MYST - CPU: 1 core -RAM: 1GB -DISK: 500MB - https://github.com/mysteriumnetwork/node
-* Storj $STORJ - CPU: 1 Core - 550 GB disk - 2TB Bandwidth/month
-* PKT $PKT - Raspberry Pi compatible
+* Mysterium
+* Storj
+* PKT
 * Subspace
 * Duino Coin
 * Umbrel
