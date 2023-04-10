@@ -27,10 +27,10 @@ When it comes to Solana NFT's, the Metaplex standard has become the dominant fra
 
 * Metaplex file types are as follows: 
 `properties.category - Supported categories:`
-- `"image" - PNG, GIF, JPG`
-- `"video" - MP4, MOV`
-- `"audio" - MP3, FLAC, WAV`
-- `"vr" - 3D models; GLB, GLTF`
-- `"html" - HTML pages`
+-- `"image" - PNG, GIF, JPG`
+-- `"video" - MP4, MOV`
+-- `"audio" - MP3, FLAC, WAV`
+-- `"vr" - 3D models; GLB, GLTF`
+-- `"html" - HTML pages`
 
 My hope is that this guide will serve as a useful resource during the transition from CMv2 to CMv3. Metaplex is an amazing tool set and a crucial componet of the Solana ecosystem, and as such its adoption and user accesability is key to network growth. 
