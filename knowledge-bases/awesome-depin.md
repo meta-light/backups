@@ -13,6 +13,7 @@ Awesome DePIN
 * [Parlay Labs Blog](https://parleylabs.com/blog/)
 * [CMC DePIN](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-depin-decentralized-physical-infrastructure)
 * [Peaq DePIN](https://www.peaq.network/blog/what-are-decentralized-physical-infrastructure-networks-depin)
+* [Bitstamp DePIN](https://www.bitstamp.net/learn/web3/what-are-decentralized-physical-infrastructure-networks-depin/)
 
 ### Compute
 * [DePIN Compute](https://omnida.substack.com/p/compute-legos-driving-the-next-phase)
