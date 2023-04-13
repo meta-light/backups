@@ -92,3 +92,9 @@ telnet telehack
 # Sheets 
 * Split Cells - =split(A1,";")
 * Merge Cells -  =concatenate(A1," ",2)
+
+# VSCODE
+* Format Code: ```Shift + Option + F```
+
+# GITHUB
+* Github Commit from CLI: ```git commit -a -m "my commit message"```
