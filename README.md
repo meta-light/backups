@@ -2,6 +2,9 @@
 I'm [Meta Light](https://meta-light.vercel.app/), a Web3 Research and BD Lead. 
 
 ### My Resources 
+- [Solana Hello World Tutorial](https://github.com/meta-lite/solana-hello-world)
+- [Solana Rolodex (Resource Guide)](https://github.com/meta-lite/solana-rolodex)
+- [Meta Light's Textbook (Under Construction)](https://github.com/meta-lite/solana-rolodex)
 
 ### My Projects
 - [Coldfront](https://github.com/meta-lite/coldfront): A simple weather app that displays current conditions, as well as relevant news and information about Razorbacks Baseball
