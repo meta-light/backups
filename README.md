@@ -2,9 +2,9 @@
 I'm [Meta Light](https://meta-light.vercel.app/), a Web3 Research and BD Lead. 
 
 ### My Resources 
-- [Solana Hello World Tutorial](https://github.com/meta-lite/solana-hello-world)
-- [Solana Rolodex (Resource Guide)](https://github.com/meta-lite/solana-rolodex)
-- [Meta Light's Textbook (Under Construction)](https://github.com/meta-lite/solana-rolodex)
+- [Solana Hello World Tutorial](https://github.com/meta-lite/solana-hello-world): An introductory tutorial on Solana smart contracts and development
+- [Solana Rolodex](https://github.com/meta-lite/solana-rolodex): A Solana ecosystem map, complete with everything you need to get started in the Solana ecosystem.
+- [Meta Light's Textbook (Under Construction)](https://github.com/meta-lite/meta-lite/blob/main/knowledge-bases/textbook.md): Everything you need to know to get up to speed in Web3 research and development
 
 ### My Projects
 - [Coldfront](https://github.com/meta-lite/coldfront): A simple weather app that displays current conditions, as well as relevant news and information about Razorbacks Baseball
