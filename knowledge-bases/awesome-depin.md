@@ -34,6 +34,8 @@ Awesome DePIN
 * [Helium Modled 5G Coverage](https://coverage-explorer.herokuapp.com)
 * [5G Coverage Mapping](https://poc-5g-mapper.herokuapp.com/)
 * [Wallet Migration Tool](https://migration.web.test-helium.com/helium/)
+* [Solana Chain Addresses](https://docs.helium.com/solana/#migration-process-steps)
+* [Staking on Solana](https://docs.helium.com/solana/migration/validator-operator/)
 
 #### XNET
 * [Investment Memo](https://connorbuildsinpublic.substack.com/p/xnet-investment-memo-the-road-less?r=f0hjx&utm_campaign=post&utm_medium=web)
