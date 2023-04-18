@@ -15,6 +15,7 @@ Awesome DePIN
 * [Peaq DePIN](https://www.peaq.network/blog/what-are-decentralized-physical-infrastructure-networks-depin)
 * [Bitstamp DePIN](https://www.bitstamp.net/learn/web3/what-are-decentralized-physical-infrastructure-networks-depin/)
 * [Burn-Mint](https://blog.uros.kalabic.rs/adequate-burn-and-mint-rewards)
+8 [Chain Selection](https://medium.com/@bcmark/chain-selection-for-a-decentralized-physical-infrastructure-network-depin-bf1c646d9330)
 
 ### Compute
 * [DePIN Compute](https://omnida.substack.com/p/compute-legos-driving-the-next-phase)
