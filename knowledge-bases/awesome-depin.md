@@ -19,6 +19,8 @@ Awesome DePIN
 
 ### Compute
 * [DePIN Compute](https://omnida.substack.com/p/compute-legos-driving-the-next-phase)
+* [RNDR Deep Dive](https://globalcoinresearch.com/2023/04/26/render-network-scaling-rendering-for-the-future/)
+* [AI Compute](https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/)
 
 ### DeWi
 * [Network Design](https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4)
