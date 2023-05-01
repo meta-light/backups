@@ -41,6 +41,7 @@ Awesome DePIN
 * [Solana Chain Addresses](https://docs.helium.com/solana/#migration-process-steps)
 * [Staking on Solana](https://docs.helium.com/solana/migration/validator-operator/)
 * [Migration Metrics](https://flipsidecrypto.xyz/marqu/helium-migration-to-solana-c4YYL7)
+* [DeWi Cats Tools](https://explorer.dewicats.xyz/)
 
 #### XNET
 * [Investment Memo](https://connorbuildsinpublic.substack.com/p/xnet-investment-memo-the-road-less?r=f0hjx&utm_campaign=post&utm_medium=web)
