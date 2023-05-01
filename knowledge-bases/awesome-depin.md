@@ -1,4 +1,4 @@
-# awesome-depin
+# depin
 Awesome DePIN
 
 ## General DePIN Resources
