@@ -383,3 +383,37 @@ Upon completion of this module (Week 5- 10), you should be able to:
 
 https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=c2da3f43-f1fd-4ec3-b7af-9c786c2b12a2%40redis
 
+
+
+
+Grants and $$$
+
+    Buildspace - https://buildspace.so/
+    Web3 Foundation - https://web3.foundation/grants/ https://github.com/w3f/Grants-Program
+    Kadena Grants - https://github.com/kadena-io/technical-grants
+    Funding Ideas - https://mvpworkshop.co/blog/how-to-fund-your-web3-project/
+    Polkadot Grants - https://wiki.polkadot.network/docs/grants
+    Ethereum Grants - https://ethereum.org/en/community/grants/
+    Chainlink Grants - https://chain.link/community/grants
+    Kraken Grants - https://www.kraken.com/features/grants
+    Gitcoin Grants - https://gitcoin.co/grants/explorer/?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=false&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=true&round_type=false&tab=grants
+    Harmony.one - https://open.harmony.one/300m-on-bounties-grants-daos
+    DoraHacks - https://dorahacks.io/
+
+Twitter Posts
+
+    https://twitter.com/VittoStack/status/1491007572769488901?s=20&t=FQRfSWmW0cYUmlxm0cAxFg
+    Nader Dabit - https://twitter.com/dabit3/status/1488647294111125521
+
+Learn to Earn
+
+    Rabithole.gg - https://rabbithole.gg/
+    Moralis Projects - https://moralis.io/projects/
+    Pointer.gg - https://www.pointer.gg/
+
+AirDrop Listings
+
+    Airdrops.io - https://airdrops.io/
+
+
+
