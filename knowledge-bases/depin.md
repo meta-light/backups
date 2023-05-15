@@ -44,6 +44,7 @@ Awesome DePIN
 * [Migration Metrics](https://flipsidecrypto.xyz/marqu/helium-migration-to-solana-c4YYL7)
 * [DeWi Cats Tools](https://explorer.dewicats.xyz/)
 * [Moken](https://www.moken.io/)
+* [DC Dashboard](https://dune.com/helium-foundation/helium-data-credits)
 
 #### XNET
 * [Investment Memo](https://connorbuildsinpublic.substack.com/p/xnet-investment-memo-the-road-less?r=f0hjx&utm_campaign=post&utm_medium=web)
