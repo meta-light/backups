@@ -45,6 +45,7 @@ Awesome DePIN
 * [DeWi Cats Tools](https://explorer.dewicats.xyz/)
 * [Moken](https://www.moken.io/)
 * [DC Dashboard](https://dune.com/helium-foundation/helium-data-credits)
+* [Firmware Hub by Nebra](https://hub.nebra.com/#NH1)
 
 #### XNET
 * [Investment Memo](https://connorbuildsinpublic.substack.com/p/xnet-investment-memo-the-road-less?r=f0hjx&utm_campaign=post&utm_medium=web)
