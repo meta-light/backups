@@ -4,6 +4,7 @@ This textbook is a living document created with the intention to serve as a reso
 ## Module 0 - The Storm is Brewing
 ### Mind-Altering Media
 * Silicon Valley (HBO)
+* Mr. Robot(USA)
 * Devs (FX)
 * Westworld (HBO)
 * [The Future of Cities](https://youtu.be/xOOWk5yCMMs)
