@@ -73,73 +73,53 @@ This textbook is a living document created with the intention to serve as a reso
 * [Taproot Upgrade](https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/)
 * [Taproot Overview Video](https://www.youtube.com/watch?v=BXkEU2sj6jg)
 ## Module 4 - Smart Contracts
-- History of NFTs - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
-- What are NFT Examples? - https://www.youtube.com/watch?v=YjLoeT88UFA&ab_channel=SimpleAssets
-- 2021: The Year of Non-Fungible Tokens - https://rubenmerre.medium.com/why-2021-will-be-the-year-of-non-fungible-tokens-nfts-9e4bd1ac6a51
-- ERC20 Tokens Explained - https://www.youtube.com/watch?v=acYcOs7HOls
-- ERC721 NFTs Explained - https://www.youtube.com/watch?v=QFYU81zM_jA
-- Moralis Explainer - https://www.youtube.com/watch?v=txHnWDRB728
-- Ethereum ERC Standards - https://eips.ethereum.org/erc
-- An Introduction to IPFS - https://www.youtube.com/watch?v=BA2rHlbB5i0 
-- IPFS Download - https://ipfs.io/#get-started 
-- IPFS Docs - https://docs.ipfs.io/introduction/overview/
-- Development and deployjent of ERC20 (Fungible) Tokens - https://www.dropbox.com/s/f05os6gm22n5s8t/creatingERC20Tokens.mp4?dl=0
-- Development and deployment of ERC721 (Non Funible) NFTs (with IPFS hosting) - https://www.dropbox.com/s/q9454s6w09dvb3v/creatingERC721NFTs.mp4?dl=0
-- w3schools JSON Tutorial - https://www.w3schools.com/js/js_json_intro.asp 
-- Decentralized Data - https://www.youtube.com/watch?v=BQx0NZgLgtU 
-- How IPFS Deals with Files - https://www.youtube.com/watch?v=Y_-TWTmF_1I
-- A Decentralized Primer - https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/ 
-- Permaweb Tutorial - https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/publishing-changes/ 
-- Why IPFS Matters - Juan Benet - https://www.youtube.com/watch?v=zE_WSLbqqvo&feature=emb_logo
-
+- [History of NFTs](https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10)
+- [What are NFT Examples?](https://www.youtube.com/watch?v=YjLoeT88UFA&ab_channel=SimpleAssets)
+- [2021: The Year of Non-Fungible Tokens](https://rubenmerre.medium.com/why-2021-will-be-the-year-of-non-fungible-tokens-nfts-9e4bd1ac6a51)
+- [ERC20 Tokens Explained](https://www.youtube.com/watch?v=acYcOs7HOls)
+- [ERC721 NFTs Explained](https://www.youtube.com/watch?v=QFYU81zM_jA)
+- [Moralis Explainer](https://www.youtube.com/watch?v=txHnWDRB728)
+- [Ethereum ERC Standards](https://eips.ethereum.org/erc)
+- [An Introduction to IPFS](https://www.youtube.com/watch?v=BA2rHlbB5i0)
+- [IPFS Download](https://ipfs.io/#get-started)
+- [IPFS Docs](https://docs.ipfs.io/introduction/overview/)
+- [Development and deployjent of ERC20 (Fungible) Tokens](https://www.dropbox.com/s/f05os6gm22n5s8t/creatingERC20Tokens.mp4?dl=0)
+- [Development and deployment of ERC721 (Non Funible) NFTs (with IPFS hosting)](https://www.dropbox.com/s/q9454s6w09dvb3v/creatingERC721NFTs.mp4?dl=0)
+- [w3schools JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
+- [Decentralized Data](https://www.youtube.com/watch?v=BQx0NZgLgtU)
+- [How IPFS Deals with Files](https://www.youtube.com/watch?v=Y_-TWTmF_1I)
+- [A Decentralized Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/)
+- [Permaweb Tutorial](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/publishing-changes/)
+- [Why IPFS Matters - Juan Benet](https://www.youtube.com/watch?v=zE_WSLbqqvo&feature=emb_logo)
 ## Module 5 - Low and No Code Development
-Upon completion of this module (Week 5- 10), you should be able to:
-        
-        Create custom contracts for use in Web3 applications (e.g., marketplaces, token-gated services)
-        Create Web3 applications connected to on-chain data and contracts
-        Explore and validate on-chain transactions with multiple tools (e.g., analytics, block explorers)
-        Evaluate Web3 end-user products and services
-        Map and Organize the Blockchain/Web3 Ecosystem 
-        Identify and Evaluate BlockchainWeb3 Careers and Opportunities across various industries and verticals
-### Module 5 Content 
-- Web3 Developer Stack 2022 - https://blog.coinbase.com/a-simple-guide-to-the-web3-developer-stack-8364b612d69c
-- Web3.JS Official Documentation - https://web3js.readthedocs.io/en/v1.8.0/
-- Web3.JS Github Repo - https://github.com/ethereum/web3.js/ 
-- Bildr Studio Web3 Workshop - https://www.youtube.com/watch?v=VZLU2zE_qGA
-- Bildr Studio - https://www.bildr.com/ 
-- Bildr Education/Tutorial - https://www.bildr.com/education
-- Bildr YouTube Channel: https://www.youtube.com/c/BildrHQ
-- Bildr Official - Landing Page with Waitlist - https://www.bildr.com/lesson/landing-page-with-waitlist
-- No-Code List - https://nocodelist.co/
-– Setting up VS Code – https://video.uark.edu/media/SettingUpVSCode.mp4/1_9eocx5nd
-– Exporting Smart Contract Info – https://video.uark.edu/media/ExportingSmartContractInfo/1_6qce91sl
-– Creating Ethereum HTML Website – https://video.uark.edu/media/CreatingEthereumHTMLWebsite/1_s1nrzyaw
-– Executing Smart Contracts in HTML - https://video.uark.edu/media/ExecutingSmartContractsInHTML/1_8pyjjwmp
-– Solidity, HTML, and Javascript Development Files - https://www.dropbox.com/s/2itnlaqturvyo05/WorkshopFiles.zip?dl=0
-- Optional Software: JSONCrack - https://jsoncrack.com/
-- Web3.py A Python Framework - https://web3py.readthedocs.io/en/stable/
-- Intro to Web3.JS - DappUniversity - https://www.dappuniversity.com/articles/web3-js-intro 
-### Module 5 Deliverables
-    1. Go to bildr.com and sign up to create a new account (you will need to verify email).
-    2. Create a "new" project and explore the different tools available.
-    3. Watch the Studio Overview video (https://www.bildr.com/lesson/studio-overview)
-    4. Review Bildr's proposed Tokenomics utilizing NFTs and ERC20 tokens (https://www.bildr.com/tokenomics-overview)
-    5. Review Bildr's Web3-specific Offerings (https://web3.bildr.com/ )
-
-## Module 6 - GPT
-### Module 6 Content
-- Solidity Chatbot built around ChatGPT - https://twitter.com/jiayaoqi/status/1640242749705453570?s=20
-- ChatGPT Plugins - https://openai.com/blog/chatgpt-plugins
-- Initial ChatGPT Plugins - https://www.cnet.com/tech/mobile/chatgpt-can-now-browse-the-web-book-flights-and-more/
-- Offical Documents for LangChain - https://python.langchain.com/en/latest/
-
+- [Web3 Developer Stack 2022](https://blog.coinbase.com/a-simple-guide-to-the-web3-developer-stack-8364b612d69c)
+- [Web3.JS Official Documentation](https://web3js.readthedocs.io/en/v1.8.0/)
+- [Web3.JS Github Repo](https://github.com/ethereum/web3.js/)
+- [Bildr Studio Web3 Workshop](https://www.youtube.com/watch?v=VZLU2zE_qGA)
+- [Bildr Studio](https://www.bildr.com/)
+- [Bildr Education/Tutorial](https://www.bildr.com/education)
+- [Bildr YouTube Channel](https://www.youtube.com/c/BildrHQ)
+- [Bildr Official Landing Page with Waitlist](https://www.bildr.com/lesson/landing-page-with-waitlist)
+- [No-Code List](https://nocodelist.co/)
+- [Setting up VS Code](https://video.uark.edu/media/SettingUpVSCode.mp4/1_9eocx5nd)
+– [Exporting Smart Contract Info](https://video.uark.edu/media/ExportingSmartContractInfo/1_6qce91sl)
+– [Creating Ethereum HTML Website](https://video.uark.edu/media/CreatingEthereumHTMLWebsite/1_s1nrzyaw)
+– [Executing Smart Contracts in HTML](https://video.uark.edu/media/ExecutingSmartContractsInHTML/1_8pyjjwmp)
+– [Solidity, HTML, and Javascript Development Files](https://www.dropbox.com/s/2itnlaqturvyo05/WorkshopFiles.zip?dl=0)
+- [Optional Software: JSONCrack](https://jsoncrack.com/)
+- [Web3.py A Python Framework](https://web3py.readthedocs.io/en/stable/)
+- [Intro to Web3.JS - DappUniversity](https://www.dappuniversity.com/articles/web3-js-intro)
+## Module 6 - Large Language Models
+- [Solidity Chatbot built around ChatGPT](https://twitter.com/jiayaoqi/status/1640242749705453570?s=20)
+- [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
+- [Initial ChatGPT Plugins](https://www.cnet.com/tech/mobile/chatgpt-can-now-browse-the-web-book-flights-and-more/)
+- [Offical Documents for LangChain](https://python.langchain.com/en/latest/)
 ## Module 7 - DePIN
-### Module 7 Content
-- Streamr Network - https://streamr.network/
-- Streamr Youtube Channel - https://www.youtube.com/c/streamr
-- Streamr Quick Overview - https://youtu.be/YFBNRVFOunc
-- Streamr Whitepaper - https://streamr-public.s3.amazonaws.com/streamr-network-lightpaper.pdf
-- Streamr Twitter Feed - https://twitter.com/streamr
+- [Streamr Network](https://streamr.network/)
+- [Streamr Youtube Channel](https://www.youtube.com/c/streamr)
+- [Streamr Quick Overview](https://youtu.be/YFBNRVFOunc)
+- [Streamr Whitepaper](https://streamr-public.s3.amazonaws.com/streamr-network-lightpaper.pdf)
+- [Streamr Twitter Feed](https://twitter.com/streamr)
 
 ## Module 8 - Legal Environment
 ### Module 8 Content
