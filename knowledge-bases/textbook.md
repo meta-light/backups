@@ -72,16 +72,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [What is Lightning](https://www.youtube.com/watch?v=SXT9iq__V8c)
 * [Taproot Upgrade](https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/)
 * [Taproot Overview Video](https://www.youtube.com/watch?v=BXkEU2sj6jg)
-
-## Module 4
-Upon completion of this modules 1 - 4 you should be able to:
-
-    Write and Deploy Smart Contracts on a Blockchain
-    Created Standardized ERC Tokens (ERC20/ERC721)
-    Examine, Evaluate, and Interact with Public Smart Contracts utilized in current decentralized applications.
-    Map and Organize the Blockchain/Web3 Ecosystem 
-    Identify and Evaluate BlockchainWeb3 Careers and Opportunities across various industries and verticals
-### Module 4 Content - Non-Fungible Tokens
+## Module 4 - Smart Contracts
 - History of NFTs - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 - What are NFT Examples? - https://www.youtube.com/watch?v=YjLoeT88UFA&ab_channel=SimpleAssets
 - 2021: The Year of Non-Fungible Tokens - https://rubenmerre.medium.com/why-2021-will-be-the-year-of-non-fungible-tokens-nfts-9e4bd1ac6a51
@@ -99,7 +90,7 @@ Upon completion of this modules 1 - 4 you should be able to:
 - How IPFS Deals with Files - https://www.youtube.com/watch?v=Y_-TWTmF_1I
 - A Decentralized Primer - https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/ 
 - Permaweb Tutorial - https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/publishing-changes/ 
-- Why IPFS Matters - Juan Benet - https://www.youtube.com/watch?v=zE_WSLbqqvo&feature=emb_logo 
+- Why IPFS Matters - Juan Benet - https://www.youtube.com/watch?v=zE_WSLbqqvo&feature=emb_logo
 
 ## Module 5 - Low and No Code Development
 Upon completion of this module (Week 5- 10), you should be able to:
