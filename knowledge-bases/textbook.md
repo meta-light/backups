@@ -1,6 +1,5 @@
 # Meta Light's Textbook
 This textbook is a living document created with the intention to serve as a resource to incoming web3 particpants who want to dive deeper into the research  and development side of the sector. This document is free to copy and content suggestions are welcome. WAGMI
-
 ## Module 0 - The Storm is Brewing
 ### Mind-Altering Media
 * Silicon Valley (HBO)
@@ -21,73 +20,58 @@ This textbook is a living document created with the intention to serve as a reso
 * https://twitter.com/zGuz/status/1586160318148845568?s=20&t=YBWLzE4Ae4AVk9eBqRnDkA
 * https://twitter.com/SalomonCrypto/status/1562996947371274241?s=20&t=mq3t6hasatrCHOQWye21Ig
 * https://twitter.com/SalomonCrypto/status/1566078593150492675?s=20&t=T02mqZ_HeNoq7ySkspbVlw
-
-
-
 ## Module 1 - Introduction
-### Introduction Content
-- Chapter 1: A first look at decentralized applications - https://livebook.manning.com/book/building-ethereum-dapps/chapter-1/ 
-- Decentralize Everything by Vitalik Buterin - https://www.youtube.com/watch?v=WSN5BaCzsbo
-- The Decade in Blockchain - Consensys - https://consensys.net/blog/news/the-decade-in-blockchain-2010-to-2020-in-review/ 
+* [Chapter 1: A first look at decentralized applications](https://livebook.manning.com/book/building-ethereum-dapps/chapter-1/)
+* [Decentralize Everything by Vitalik Buterin](https://www.youtube.com/watch?v=WSN5BaCzsbo)
+* [The Decade in Blockchain - Consensys](https://consensys.net/blog/news/the-decade-in-blockchain-2010-to-2020-in-review/)
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 * [The Real Treasure](https://tomerstrolight.medium.com/the-legendary-treasure-of-satoshi-nakamoto-c3621c5b2106)
 * [From the Start](https://vimeo.com/161183966)
-* 
-
 ## Module 2 - Environment Setup
-### Environment Setup Content
-- Beginners Guide - https://www.mewtopia.com/absolute-beginners-guide/
-- Metamask Intro - https://www.youtube.com/watch?v=6Gf_kRE4MJU 
-- Metamask Download - https://metamask.io/ 
-- MetaMask Installation and Use - https://www.youtube.com/watch?v=Af_lQ1zUnoM
-- Mumbai Faucet - https://blog.thirdweb.com/guides/get-matic-on-polygon-mumbai-testnet-faucet/ 
-- Metamask Tokens Tutorial - https://www.youtube.com/watch?v=-uJjfn4wizE
-- Chapter 2: Understanding the blockchain - https://livebook.manning.com/book/building-ethereum-dapps/chapter-2/
-- Chapter 3: The Ethereum Platform - https://livebook.manning.com/book/building-ethereum-dapps/chapter-3/ 
-- Top Wallets on the Market - https://cointelegraph.com/ethereum-for-beginners/ethereum-wallets 
-- Best Ethereum Wallets - https://coinsutra.com/best-etherum-wallets/ 
-- Brave Browser Download - https://brave.com/
-- Clip from Lex Fridman's podcast with Brendan Eich - https://www.youtube.com/watch?v=2gWTXWFxtjw&t=26s
-- Short tutorial on BAT tokens and Brave - https://www.youtube.com/watch?v=fWzjg0ddQo0
-### Module 2 Deliverable: 
-1. Download and install Brave Browser.
-2. Install the MetaMask wallet plugin to the Brave Browser.
-3. Connect your MetaMask wallet account to the wallet in Brave by restoring from your seed phrase you saved.
-4. Install the Uphold Wallet and setup an account so that you can receive your BAT tokens.
-5. Use the Brave browser for a few days as your "primary" browser to see how well it compares to what you are using currently.
-
-## Module 3
-### Module 3 Content
-* Dr. Zach Steelman Workshop Video: https://youtu.be/o1Mrw0z7jIk
-* Setting up the Environment (required for this week) - https://video.uark.edu/media/SettingUpTheDevelopmentEnvironment/1_7y85i6kh
-* Variables – (required for this week) https://video.uark.edu/media/Variables/1_blp1mw3i
-* Enumerators and Structures – (required for this week) https://video.uark.edu/media/EnumeratorsAndStructures/1_fvsg97sd
-* Functions – (required for this week) https://video.uark.edu/media/Functions.mp4/1_kca1a0zg
-* Arrays – (required for this week) https://video.uark.edu/media/Arrays/1_se62keht
-* Setting up VS Code – https://video.uark.edu/media/SettingUpVSCode.mp4/1_9eocx5nd
-* Exporting Smart Contract Info – https://video.uark.edu/media/ExportingSmartContractInfo/1_6qce91sl
-* Creating Ethereum HTML Website – https://video.uark.edu/media/CreatingEthereumHTMLWebsite/1_s1nrzyaw
-* Executing Smart Contracts in HTML - https://video.uark.edu/media/ExecutingSmartContractsInHTML/1_8pyjjwmp
-* Development Files: Solidity, HTML, and Javascript - https://www.dropbox.com/s/2itnlaqturvyo05/WorkshopFiles.zip?dl=0
-* Chapter 4: Deploying your first smart contract - https://livebook.manning.com/book/building-ethereum-dapps/chapter-4/ 
-* Solidity Documentation - https://docs.soliditylang.org/en/latest/
-* List of EVM-compatible Blockchains - https://coinguides.org/evm-blockchains-add-evm-network/
-* Chainlist - https://chainlist.org/
-* Solidity Cheat Sheet Reference - https://github.com/manojpramesh/solidity-cheatsheet
-* Ethereum Developer Tools List (GitHub) - https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md
-* OpenZeppelin Library of Contracts - https://openzeppelin.com/
-* OpenZeppelin Documentaiton - https://docs.openzeppelin.com/contracts/4.x/
-* OpenZeppelin Github - https://github.com/OpenZeppelin/openzeppelin-contracts
-* Public Blockchain Hacks of 2019-2021 - https://cointelegraph.com/news/most-significant-hacks-of-2019-new-record-of-twelve-in-one-year 
-* Public Blockchain Hacks of 2020: - https://cointelegraph.com/news/roundup-of-crypto-hacks-exploits-and-heists-in-2020
-* An interesting recent hack during 2021: - https://www.reuters.com/technology/how-hackers-stole-613-million-crypto-tokens-poly-network-2021-08-12/
-* Solana network hack - https://www.coindesk.com/tech/2022/02/02/blockchain-bridge-wormhole-suffers-possible-exploit-worth-over-250m/ 
-* Bitcoin is Evolving! - https://www.stacks.co/ 
-* Stacks Overview Video - https://www.youtube.com/watch?v=ZkNwWSjYO6Q
-* Lightning Network - https://www.coindesk.com/layer2/2021/12/28/how-bitcoins-lightning-network-advanced-in-2021/
-* What is Lightning - https://www.youtube.com/watch?v=SXT9iq__V8c 
-* Taproot Upgrade - https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/
-* Taproot Overview Video - https://www.youtube.com/watch?v=BXkEU2sj6jg 
+* [Beginners Guide](https://www.mewtopia.com/absolute-beginners-guide/)
+* [Metamask Intro](https://www.youtube.com/watch?v=6Gf_kRE4MJU)
+* [Metamask Download](https://metamask.io/)
+* [MetaMask Installation and Use](https://www.youtube.com/watch?v=Af_lQ1zUnoM)
+* [Mumbai Faucet](https://blog.thirdweb.com/guides/get-matic-on-polygon-mumbai-testnet-faucet/)
+* [Metamask Tokens Tutorial](https://www.youtube.com/watch?v=-uJjfn4wizE)
+* [Chapter 2: Understanding the blockchain](https://livebook.manning.com/book/building-ethereum-dapps/chapter-2/)
+* [Chapter 3: The Ethereum Platform](https://livebook.manning.com/book/building-ethereum-dapps/chapter-3/)
+* [Top Wallets on the Market](https://cointelegraph.com/ethereum-for-beginners/ethereum-wallets)
+* [Best Ethereum Wallets](https://coinsutra.com/best-etherum-wallets/)
+* [Brave Browser Download](https://brave.com/)
+* [Clip from Lex Fridman's podcast with Brendan Eich](https://www.youtube.com/watch?v=2gWTXWFxtjw&t=26s)
+* [Short tutorial on BAT tokens and Brave](https://www.youtube.com/watch?v=fWzjg0ddQo0)
+## Module 3 - Solidity
+* [Dr. Zach Steelman Workshop Video](https://youtu.be/o1Mrw0z7jIk)
+* [Setting up the Environment](https://video.uark.edu/media/SettingUpTheDevelopmentEnvironment/1_7y85i6kh)
+* [Variables](https://video.uark.edu/media/Variables/1_blp1mw3i)
+* [Enumerators and Structures](https://video.uark.edu/media/EnumeratorsAndStructures/1_fvsg97sd)
+* [Functions](https://video.uark.edu/media/Functions.mp4/1_kca1a0zg)
+* [Arrays](https://video.uark.edu/media/Arrays/1_se62keht)
+* [Setting up VS Code](https://video.uark.edu/media/SettingUpVSCode.mp4/1_9eocx5nd)
+* [Exporting Smart Contract Info](https://video.uark.edu/media/ExportingSmartContractInfo/1_6qce91sl)
+* [Creating Ethereum HTML Website](https://video.uark.edu/media/CreatingEthereumHTMLWebsite/1_s1nrzyaw)
+* [Executing Smart Contracts in HTML](https://video.uark.edu/media/ExecutingSmartContractsInHTML/1_8pyjjwmp)
+* [Development Files: Solidity, HTML, and Javascript](https://www.dropbox.com/s/2itnlaqturvyo05/WorkshopFiles.zip?dl=0)
+* [Chapter 4: Deploying your first smart contract](https://livebook.manning.com/book/building-ethereum-dapps/chapter-4/)
+* [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
+* [List of EVM-compatible Blockchains](https://coinguides.org/evm-blockchains-add-evm-network/)
+* [Chainlist](https://chainlist.org/)
+* [Solidity Cheat Sheet Reference](https://github.com/manojpramesh/solidity-cheatsheet)
+* [Ethereum Developer Tools List (GitHub)](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
+* [OpenZeppelin Library of Contracts](https://openzeppelin.com/)
+* [OpenZeppelin Documentaiton](https://docs.openzeppelin.com/contracts/4.x/)
+* [OpenZeppelin Github](https://github.com/OpenZeppelin/openzeppelin-contracts)
+* [Public Blockchain Hacks of 2019-2021](https://cointelegraph.com/news/most-significant-hacks-of-2019-new-record-of-twelve-in-one-year)
+* [Public Blockchain Hacks of 2020:](https://cointelegraph.com/news/roundup-of-crypto-hacks-exploits-and-heists-in-2020)
+* [An interesting recent hack during 2021:](https://www.reuters.com/technology/how-hackers-stole-613-million-crypto-tokens-poly-network-2021-08-12/)
+* [Solana Wormhole hack](https://www.coindesk.com/tech/2022/02/02/blockchain-bridge-wormhole-suffers-possible-exploit-worth-over-250m/)
+* [Bitcoin is Evolving!](https://www.stacks.co/)
+* [Stacks Overview Video](https://www.youtube.com/watch?v=ZkNwWSjYO6Q)
+* [Lightning Network](https://www.coindesk.com/layer2/2021/12/28/how-bitcoins-lightning-network-advanced-in-2021/)
+* [What is Lightning](https://www.youtube.com/watch?v=SXT9iq__V8c)
+* [Taproot Upgrade](https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/)
+* [Taproot Overview Video](https://www.youtube.com/watch?v=BXkEU2sj6jg)
 
 ## Module 4
 Upon completion of this modules 1 - 4 you should be able to:
