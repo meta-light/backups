@@ -350,6 +350,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [More Certifications](https://www.classcentral.com/report/free-certificates)
 * [Codepen](https://codepen.io/)
+* [Cheatsheet](https://devhints.io/bash)
 # Senior Year
 ## Module 1 - Open Source
 * [GSUITE alternatives](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
