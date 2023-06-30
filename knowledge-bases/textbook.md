@@ -28,6 +28,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 * [The Real Treasure](https://tomerstrolight.medium.com/the-legendary-treasure-of-satoshi-nakamoto-c3621c5b2106)
 * [From the Start](https://vimeo.com/161183966)
+* [Crypto's First Decade](https://consensys.net/blog/news/the-decade-in-blockchain-2010-to-2020-in-review/)
 ## Module 2 - Environment Setup
 * [Digital Assets](https://tlu.tarilabs.com/digital-assets)
 * [Tokenomics](https://youtu.be/w0HX5Y-yIJY)
@@ -134,6 +135,7 @@ This textbook is a living document created with the intention to serve as a reso
 - [Restrict Full Bill](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
 # Sophomore Year
 ## Module 1 - Diving Deeper 
+* [Crypro Bridges](https://cryptoflows.info/)
 * [Wallets](https://juliawu.medium.com/the-anatomy-of-metamask-28b0d68721d2)
 * [Crypto Security](https://medium.com/qi-capital/a-basic-crypto-security-guide-9f0552f69a2d)
 * [Onboarding to Ecosystems](https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XGt0k/edit#gid=1141583017)
@@ -212,6 +214,8 @@ This textbook is a living document created with the intention to serve as a reso
 * [Rabithole.gg](https://rabbithole.gg/)
 * [Moralis Projects](https://moralis.io/projects/)
 * [Pointer.gg](https://www.pointer.gg/)
+* [$500k](https://twitter.com/VittoStack/status/1491007572769488901?s=20&t=FQRfSWmW0cYUmlxm0cAxFg)
+* [Grants Thread](https://twitter.com/dabit3/status/1488647294111125521)
 # Junior Year
 ## Module 1 - BTC and LIghtning Network
 * [Lightning Explained](https://www.youtube.com/watch?v=SXT9iq__V8c)
@@ -303,34 +307,30 @@ This textbook is a living document created with the intention to serve as a reso
 * [FreeCodeCamp](https://freecodecamp.org)
 * [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [More Certifications](https://www.classcentral.com/report/free-certificates)
+* [Codepen](https://codepen.io/)
 # Senior Year
-
+## Module 1 - Open Source
+* [GSUITE alternatives](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
+* [Open Source Alternatives](https://www.opensourcealternative.to)
+* [Clone Hero](https://clonehero.net/)
+* [Clone Hero Song Archive](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0)
+## Module 2 - Solana Maximalism
+* [ETH FUD](https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part)
 
 
 # Postgrad
-
-
-
-
-
-
-
-
-
-
-
 ## Toys
+* [Monome](https://monome.org/)
 * [AI Generated Art](https://www.craiyon.com)
 * [90's TV Sim](https://my90stv.com)
 * [WindowSwap](https://www.window-swap.com)
 * [Drive and Listen](https://driveandlisten.herokuapp.com)
 * [Graceful](https://graceful.io/)
 * [Poolsuite](https://poolsuite.net/)
-## Tools
+## Non-Crypto Tools
 * [Media Converter](https://tinywow.com)
 * [PS Alternative](https://www.photopea.com)
 * [ASCII Text](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
-* [Crypro Bridges](https://cryptoflows.info/)
 ## Inspo (WAGMI)
 * [Seuss Art](https://www.drseussart.com/secretandarchive)
 * [Afropolitan](https://afropolitan.mirror.xyz/qkBv4y7MidTpDZJVEIEBC4EZi70v30IrCXLCZ-F6eMs)
@@ -341,50 +341,14 @@ This textbook is a living document created with the intention to serve as a reso
 * [Trellis Protocol](https://mirror.xyz/0xF8eBDe6cF19E928e1fFC41783365d868A8DD7088)
 * [FTX](https://milkyeggs.com/?p=175)
 * [Framework](https://frame.work/)
+* [Pepi Lore](https://www.youtube.com/watch?v=MvKAGEi2CzI)
+* [Spongebob](https://www.youtube.com/watch?v=Ci04mGSKbe0)
 ## Philosophy
 * [WrathOfGnon](https://wrathofgnon.substack.com/archive?sort=new)
 * [Codec](https://www.youtube.com/watch?v=-dwLs9juzWw&list=WL&index=13)
-# Continue your Journey
 ## Other Onramps - Continuing Your Education
 * [Sov's Conpendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
 * [CryptoCurrency Class](https://cryptocurrencyclass.github.io/)
 * [Jason's Reading List](https://jasonbadeaux.notion.site/40a5bf99cd6b4966acfb08129df9cb19?v=aba6edf47be649e4abf28122c579d044)
 * [Shuennnyyy](https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db)
 * [Tari Labs University](https://tlu.tarilabs.com)
-
-* https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part
-* https://consensys.net/blog/news/the-decade-in-blockchain-2010-to-2020-in-review/
-* https://www.youtube.com/watch?v=WSN5BaCzsb
-
-https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=c2da3f43-f1fd-4ec3-b7af-9c786c2b12a2%40redis
-
-
-Twitter Posts
-https://twitter.com/VittoStack/status/1491007572769488901?s=20&t=FQRfSWmW0cYUmlxm0cAxFg
-Nader Dabit - https://twitter.com/dabit3/status/1488647294111125521
-
-
-AirDrop Listings
-Airdrops.io - https://airdrops.io/
-https://codepen.io/
-
-
-## Onchainwizard Thesis
-1. Find projects that are different, and hard to replicate
-2. That are backed by great teams and advisors
-3. With a low starting market cap, with minimal CT shills
-4. With good supply side token structures
-5. With key upcoming catalysts / partnerships that you find in a project discord
-6. Build your own conviction, don’t outsource it from a CT shill
-7. And potentially most importantly, bring down the number of projects you actually invest in. There are not that many innovative or special things being built, and you only have so much time + capital to put to work. If you pull the trigger on something, it needs to have the potential to open up a lot of TVL/usage or bring new users into the space.
-
-
-
-
-* [Pepi Lore](https://www.youtube.com/watch?v=MvKAGEi2CzI)
-* [Spongebob](https://www.youtube.com/watch?v=Ci04mGSKbe0)
-* [GSUITE alternatives](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
-* [Open Source Alternatives](https://www.opensourcealternative.to)
-* [Clone Hero](https://clonehero.net/)
-* [Clone Hero Song Archive](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0)
-* [Monome](https://monome.org/)
