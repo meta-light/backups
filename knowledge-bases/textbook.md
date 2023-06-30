@@ -1,5 +1,6 @@
 # Meta Light's Textbook
 This textbook is a living document created with the intention to serve as a resource to incoming web3 particpants who want to dive deeper into the research  and development side of the sector. This document is free to copy and content suggestions are welcome. WAGMI
+# Freshman Year
 ## Module 0 - The Storm is Brewing
 ### Mind-Altering Media
 * Silicon Valley (HBO)
