@@ -258,6 +258,8 @@ This textbook is a living document created with the intention to serve as a reso
 * [Read The Network State](https://thenetworkstate.com/)
 * [What is Urbit?](https://youtu.be/M04AKTCDavc)
 * [Urbit Podcast Series](https://youtube.com/playlist?list=PLo7qEJPyC_VPrUwdqneF8nkvM0v5mYFK7)
+* [Ecosystem Report](https://docs.google.com/document/d/1Vf-GSv7FxD_8A2Hz87IQUSOYdgCcc1B9_RH03MWpnxQ/edit)
+* [Pongo](https://litpub.uqbar.ink/blog/pongo-is-for-daos)
 ## Module 3 - Protocol Research
 * [Network Analysis](https://tlu.tarilabs.com/network-analysis)
 * [Alpha Archives](https://thealpharchives.com)
