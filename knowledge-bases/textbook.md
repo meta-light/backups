@@ -196,63 +196,72 @@ This textbook is a living document created with the intention to serve as a reso
 * [Poly Hack v2](https://www.coindesk.com/markets/2021/08/17/the-poly-hack-and-cryptos-trust-issues/)
 * [Poly Hack v3](https://cointelegraph.com/news/poly-network-hack-exposes-defi-flaws-but-community-comes-to-the-rescue)
 * [Wormhole Hack](https://www.coindesk.com/tech/2022/02/02/blockchain-bridge-wormhole-suffers-possible-exploit-worth-over-250m/)
-## Module 13 - Grants
-Buildspace - https://buildspace.so/
-Web3 Foundation - https://web3.foundation/grants/ https://github.com/w3f/Grants-Program
-Kadena Grants - https://github.com/kadena-io/technical-grants
-Funding Ideas - https://mvpworkshop.co/blog/how-to-fund-your-web3-project/
-Polkadot Grants - https://wiki.polkadot.network/docs/grants
-Ethereum Grants - https://ethereum.org/en/community/grants/
-Chainlink Grants - https://chain.link/community/grants
-Kraken Grants - https://www.kraken.com/features/grants
-Gitcoin Grants - https://gitcoin.co/grants/explorer/?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=false&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=true&round_type=false&tab=grants
-Harmony.one - https://open.harmony.one/300m-on-bounties-grants-daos
-DoraHacks - https://dorahacks.io/
-
-Twitter Posts
-https://twitter.com/VittoStack/status/1491007572769488901?s=20&t=FQRfSWmW0cYUmlxm0cAxFg
-Nader Dabit - https://twitter.com/dabit3/status/1488647294111125521
-
-Learn to Earn
-Rabithole.gg - https://rabbithole.gg/
-Moralis Projects - https://moralis.io/projects/
-Pointer.gg - https://www.pointer.gg/
-
-AirDrop Listings
-Airdrops.io - https://airdrops.io/
-https://codepen.io/
-
-
-
+## Module 13 - Grants and Learn-2-Earn
+* [Buildspace](https://buildspace.so/)
+* [Web3 Foundation](https://web3.foundation/grants/)
+* [Web3 Foundation Github](https://github.com/w3f/Grants-Program)
+* [Kadena Grants](https://github.com/kadena-io/technical-grants)
+* [Funding Ideas](https://mvpworkshop.co/blog/how-to-fund-your-web3-project/)
+* [Polkadot Grants](https://wiki.polkadot.network/docs/grants)
+* [Ethereum Grants](https://ethereum.org/en/community/grants/)
+* [Chainlink Grants](https://chain.link/community/grants)
+* [Kraken Grants](https://www.kraken.com/features/grants)
+* [Gitcoin Grants](https://gitcoin.co/grants/explorer/?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=false&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=true&round_type=false&tab=grants)
+* [Harmony.one](https://open.harmony.one/300m-on-bounties-grants-daos)
+* [DoraHacks](https://dorahacks.io/)
+* [Rabithole.gg](https://rabbithole.gg/)
+* [Moralis Projects](https://moralis.io/projects/)
+* [Pointer.gg](https://www.pointer.gg/)
 # Junior Year
-## BTC and LIghtning Network
-* https://www.youtube.com/watch?v=SXT9iq__V8c
-* https://www.stacks.co/
-* https://www.youtube.com/watch?v=ZkNwWSjYO6Q
-* https://www.youtube.com/watch?v=BXkEU2sj6jg
-* https://www.coindesk.com/layer2/privacyweek/2022/01/29/bitcoin-protects-privacy-and-fights-oppression/
-* https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/
-* https://www.coindesk.com/layer2/2021/12/28/how-bitcoins-lightning-network-advanced-in-2021/
-## Urbit
+## Module 1 - BTC and LIghtning Network
+* [Lightning Explained](https://www.youtube.com/watch?v=SXT9iq__V8c)
+* [Stacks](https://www.stacks.co/)
+* [Taproot Explained](https://www.youtube.com/watch?v=BXkEU2sj6jg)
+* [BTC Privacy](https://www.coindesk.com/layer2/privacyweek/2022/01/29/bitcoin-protects-privacy-and-fights-oppression/)
+* [Taproot Upgrade](https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/)
+* [Lightning](https://www.coindesk.com/layer2/2021/12/28/how-bitcoins-lightning-network-advanced-in-2021/)
+## Module 2 - Urbit
 * [Read The Network State](https://thenetworkstate.com/)
 * [What is Urbit?](https://youtu.be/M04AKTCDavc)
 * [Urbit Podcast Series](https://youtube.com/playlist?list=PLo7qEJPyC_VPrUwdqneF8nkvM0v5mYFK7)
-## Research
+## Module 3 - Protocol Research
 * [Network Analysis](https://tlu.tarilabs.com/network-analysis)
 * [Alpha Archives](https://thealpharchives.com)
 * [Delphi Research](https://members.delphidigital.io)
 * [Tech Deep Dives](https://coinmarketcap.com/alexandria/categories/tech-deep-dives)
 * [VC Database](https://codygarrison.notion.site/Web3-VC-Database-2022-de9c391f8dd14a8a9a3e01a69f4e0b7f)
 * [Employment](https://www.paradigm.xyz/2022/06/evaluating-web3-job-opportunities-like-an-investor)
-* [Pumpimng and Dumping 101](https://twitter.com/milesdeutscher/status/1585282742052220936)
-## TA 
+* [Pumping and Dumping 101](https://twitter.com/milesdeutscher/status/1585282742052220936)
+## Module 4 - Technical Analysis
 * [TA Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit)
 * [DeFi Risk Assessment](https://tokenbrice.xyz/money-markets-risk)
-## Tools
+## Module 5 - Research Tools
 * [On Chain](https://www.gokustats.xyz/dashboard)
 * [Investment Research CLI Tool (Practice)](https://openbb.co)
 * [Track on-chain activity](https://dune.com/home)
-## Project Selection and Viability
+* [VC Master Contact List](https://docs.google.com/spreadsheets/d/1oPq7dt6hsntvmAhgPc8H0pcbUnbi7V6kX-FIOOVmlOk/edit#gid=0)
+* [Crypto Twitter Activity Tracker](https://www.theblock.co/data/alternative-crypto-metrics/social)
+* [CoinGecko New Tokens](https://www.coingecko.com/en/new-cryptocurrencies)
+* [Web 3 Protocol Revenue](https://web3index.org/)
+* [BunnyAnalyst Protocol Revenue](https://www.bunnyanalyst.com/)
+* [New Web3 Projects](https://web3alerts.app/projects)
+* [CryptoPanic News Dashboard](https://cryptopanic.com/)
+* [DeFi Llama TVL Tracker](https://defillama.com/)
+* [MDMA](https://bit.ly/0xdq-mdma)
+* [Trending Contracts](https://dune.com/niftytable/trending-contracts)
+* [Daily Degen](https://thedailydegen.substack.com/)
+* [HNT News](https://cryptopanic.com/news/helium/)
+* [HNT Open Interest](https://coinalyze.net/helium/open-interest/)
+* [HNTScan](https://www.hntscan.io/)
+* [Helium Social](https://lunarcrush.com/coins/hnt/helium)
+* [Solana DeFi](https://www.hellomoon.io/solana-defi/tokens)
+* [Helium Grants (outdated?)](https://heliumfoundation.notion.site/The-Helium-Grant-Program-18a0484cf8a1494bae9eb3497b77a3cf)
+* [API Scraping](https://console.apify.com)
+* [Dall-E 2](https://openai.com/dall-e-2/)
+* [Rice Daily](https://literate-sweatshirt-8cc.notion.site/be65a66f8d6242d28ec5b908942853ad?v=31ed307a001f4edd9f5b8427d1402b96)
+* [Solana VC's](https://build.superteam.fun/vcs-and-funds)
+* [Artemis](https://app.artemis.xyz/dashboard)
+## Module 6 - Project Selection and Viability
 * [Macro](https://onchainwizard.substack.com/p/issue-1-playing-an-insiders-game)
 * [10x Moonshots](https://taschalabs.com/how-to-find-the-10x-winners-in-crypto/?sfw=pass1660928295)
 * [Viability of Vision](https://www.thedefiedge.com/execution/)
@@ -263,23 +272,14 @@ https://codepen.io/
 * [Project Assessment Level 5](https://typefully.com/DazaiCrypto/z81iqSC)
 * [Project Assessment Level 6](https://onchainwizard.substack.com/p/issue-3-how-to-research-a-project)
 * [VC Tips and Tricks](https://twitter.com/Cov_duk/status/1518561741382176769)
-## On-Chain Metrics
+## Module 7 - On-Chain Metrics
 * [On Chain Alfa](https://twitter.com/DeFi_educator/status/1514351440826933248)
 * [Raw wallet Tracking](https://twitter.com/StrategicHash/status/1514688087737368576)
 * [Whale Watching](https://onchainwizard.substack.com/p/onchain-wizard-issue-2-intro-to-whale?s=w)
-## L1 Metrics
+## Module 8 - L1 Metrics
 [L1 Checklist](https://taschalabs.com/a-checklist-for-layer-1-blockchain-investment-%e2%9c%85)
 [Investment Framework](https://jumpcrypto.com/a-framework-for-analyzing-l1s/)
-## Onchainwizard Thesis
-1. Find projects that are different, and hard to replicate
-2. That are backed by great teams and advisors
-3. With a low starting market cap, with minimal CT shills
-4. With good supply side token structures
-5. With key upcoming catalysts / partnerships that you find in a project discord
-6. Build your own conviction, don’t outsource it from a CT shill
-7. And potentially most importantly, bring down the number of projects you actually invest in. There are not that many innovative or special things being built, and you only have so much time + capital to put to work. If you pull the trigger on something, it needs to have the potential to open up a lot of TVL/usage or bring new users into the space.
-# Chapter 6 - Economics
-## Tokenomics
+## Module 9 - Tokenomics
 * [101](https://crypto.nateliason.com/p/tokenomics-101)
 * [102](https://crypto.nateliason.com/p/tokenomics-102)
 * [103](https://crypto.nateliason.com/p/tokenomics-103)
@@ -289,7 +289,7 @@ https://codepen.io/
 * [Limitations](https://breadcrumb.vc/bootstrapping-web3-networks-the-limitations-of-token-incentives-4b57fa54486c)
 * [Fuck P/E](https://defieducation.substack.com/p/why-pe-ratios-are-broken-in-crypto)
 * [Making Bets](https://twitter.com/mrjasonchoi/status/1483482304341487622)
-## Crypto Space
+## Module 10 - Crypto Space
 * [Selling Strat](https://crypto.nateliason.com/p/take-profit)
 * [Wild West](https://zoomeroracle.substack.com/p/crypto-the-unwritten-rules-of-the)
 * [Knife](https://wangarian.substack.com/p/sharpening-the-knife)
@@ -299,10 +299,26 @@ https://codepen.io/
 * [Probabilistic Thinking](https://cobie.substack.com/p/probabilistic-thinking)
 * [Jurisdictional Agility](https://ecency.com/post/@blocktrades/jurisdictional-agility-in-beos)
 * [Web3 Credentials](https://mirror.xyz/0xf27BdcD155cC9f5e90baFE616D2E8cEe47609A7A/mnNWyojD_Da9qAHZeOVmRUywi0EYpEFRIkte4MAXAc8)
-## Further Learning
+## Module 11 - Further Learning
 * [FreeCodeCamp](https://freecodecamp.org)
 * [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [More Certifications](https://www.classcentral.com/report/free-certificates)
+# Senior Year
+
+
+
+# Postgrad
+
+
+
+
+
+
+
+
+
+
+
 ## Toys
 * [AI Generated Art](https://www.craiyon.com)
 * [90's TV Sim](https://my90stv.com)
@@ -338,38 +354,29 @@ https://codepen.io/
 
 * https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part
 * https://consensys.net/blog/news/the-decade-in-blockchain-2010-to-2020-in-review/
-* https://www.youtube.com/watch?v=WSN5BaCzsbo
-
-
-# Research Toolkit
-* [VC Master Contact List](https://docs.google.com/spreadsheets/d/1oPq7dt6hsntvmAhgPc8H0pcbUnbi7V6kX-FIOOVmlOk/edit#gid=0)
-* [Crypto Twitter Activity Tracker](https://www.theblock.co/data/alternative-crypto-metrics/social)
-* [CoinGecko New Tokens](https://www.coingecko.com/en/new-cryptocurrencies)
-* [Web 3 Protocol Revenue](https://web3index.org/)
-* [BunnyAnalyst Protocol Revenue](https://www.bunnyanalyst.com/)
-* [New Web3 Projects](https://web3alerts.app/projects)
-* [CryptoPanic News Dashboard](https://cryptopanic.com/)
-* [DeFi Llama TVL Tracker](https://defillama.com/)
-* [MDMA](https://bit.ly/0xdq-mdma)
-* [Trending Contracts](https://dune.com/niftytable/trending-contracts)
-* [Daily Degen](https://thedailydegen.substack.com/)
-* [HNT News](https://cryptopanic.com/news/helium/)
-* [HNT Open Interest](https://coinalyze.net/helium/open-interest/)
-* [HNTScan](https://www.hntscan.io/)
-* [Helium Social](https://lunarcrush.com/coins/hnt/helium)
-* [Solana DeFi](https://www.hellomoon.io/solana-defi/tokens)
-* [Helium Grants (outdated?)](https://heliumfoundation.notion.site/The-Helium-Grant-Program-18a0484cf8a1494bae9eb3497b77a3cf)
-* [API Scraping](https://console.apify.com)
-* [Dall-E 2](https://openai.com/dall-e-2/)
-* [Rice Daily](https://literate-sweatshirt-8cc.notion.site/be65a66f8d6242d28ec5b908942853ad?v=31ed307a001f4edd9f5b8427d1402b96)
-* [Solana VC's](https://build.superteam.fun/vcs-and-funds)
-* [Artemis](https://app.artemis.xyz/dashboard)
-* 
+* https://www.youtube.com/watch?v=WSN5BaCzsb
 
 https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=c2da3f43-f1fd-4ec3-b7af-9c786c2b12a2%40redis
 
 
+Twitter Posts
+https://twitter.com/VittoStack/status/1491007572769488901?s=20&t=FQRfSWmW0cYUmlxm0cAxFg
+Nader Dabit - https://twitter.com/dabit3/status/1488647294111125521
 
+
+AirDrop Listings
+Airdrops.io - https://airdrops.io/
+https://codepen.io/
+
+
+## Onchainwizard Thesis
+1. Find projects that are different, and hard to replicate
+2. That are backed by great teams and advisors
+3. With a low starting market cap, with minimal CT shills
+4. With good supply side token structures
+5. With key upcoming catalysts / partnerships that you find in a project discord
+6. Build your own conviction, don’t outsource it from a CT shill
+7. And potentially most importantly, bring down the number of projects you actually invest in. There are not that many innovative or special things being built, and you only have so much time + capital to put to work. If you pull the trigger on something, it needs to have the potential to open up a lot of TVL/usage or bring new users into the space.
 
 
 
