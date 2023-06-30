@@ -29,6 +29,9 @@ This textbook is a living document created with the intention to serve as a reso
 * [The Real Treasure](https://tomerstrolight.medium.com/the-legendary-treasure-of-satoshi-nakamoto-c3621c5b2106)
 * [From the Start](https://vimeo.com/161183966)
 ## Module 2 - Environment Setup
+* [Digital Assets](https://tlu.tarilabs.com/digital-assets)
+* [Tokenomics](https://youtu.be/w0HX5Y-yIJY)
+* [Setup Metamask](https://medium.com/@alias_73214/guide-how-to-setup-metamask-d2ee6e212a3e#:~:text=After%20installing%2C%20click%20on%20the,for%20a%20new%20Ethereum%20account.)
 * [Beginners Guide](https://www.mewtopia.com/absolute-beginners-guide/)
 * [Metamask Intro](https://www.youtube.com/watch?v=6Gf_kRE4MJU)
 * [Metamask Download](https://metamask.io/)
@@ -121,92 +124,119 @@ This textbook is a living document created with the intention to serve as a reso
 - [Streamr Quick Overview](https://youtu.be/YFBNRVFOunc)
 - [Streamr Whitepaper](https://streamr-public.s3.amazonaws.com/streamr-network-lightpaper.pdf)
 - [Streamr Twitter Feed](https://twitter.com/streamr)
-
 ## Module 8 - Legal Environment
-### Module 8 Content
-- RESTRICT Act Overview - https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/
-- White House Economic Report - https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf
-- Breaking Points Overview - https://www.youtube.com/watch?v=BJDhjlCvLwU&ab_channel=BreakingPoints
-- Tiktok Hearing Overview - https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/
-- Facebook/GOP - https://www.theverge.com/2022/3/30/23003168/facebook-tiktok-targeted-victory-news-column-campaign-gop
-- Full RESTRICT ACT overview - https://www.jdsupra.com/legalnews/the-restrict-act-a-potential-new-1582223/
-- Restrict Full Bill - https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15
-
-
-
-
-
-
-
-* [Pepi Lore](https://www.youtube.com/watch?v=MvKAGEi2CzI)
-* [Spongebob](https://www.youtube.com/watch?v=Ci04mGSKbe0)
-* [GSUITE alternatives](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
-* [Open Source Alternatives](https://www.opensourcealternative.to)
-* [Clone Hero](https://clonehero.net/)
-* [Clone Hero Song Archive](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0)
-* [Monome](https://monome.org/)
-
-## Basic Understanding 
-* [Digital Assets](https://tlu.tarilabs.com/digital-assets)
-* [Tokenomics](https://youtu.be/w0HX5Y-yIJY)
-* [Setup Metamask](https://medium.com/@alias_73214/guide-how-to-setup-metamask-d2ee6e212a3e#:~:text=After%20installing%2C%20click%20on%20the,for%20a%20new%20Ethereum%20account.)
+- [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
+- [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
+- [Breaking Points Overview](https://www.youtube.com/watch?v=BJDhjlCvLwU&ab_channel=BreakingPoints)
+- [Tiktok Hearing Overview](https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/)
+- [Facebook/GOP](https://www.theverge.com/2022/3/30/23003168/facebook-tiktok-targeted-victory-news-column-campaign-gop)
+- [Full RESTRICT ACT overview](https://www.jdsupra.com/legalnews/the-restrict-act-a-potential-new-1582223/)
+- [Restrict Full Bill](https://www.congress.gov/bill/118th-congress/senate-bill/686/text?s=1&r=15)
+# Sophomore Year
+## Module 1 - Diving Deeper 
 * [Wallets](https://juliawu.medium.com/the-anatomy-of-metamask-28b0d68721d2)
 * [Crypto Security](https://medium.com/qi-capital/a-basic-crypto-security-guide-9f0552f69a2d)
 * [Onboarding to Ecosystems](https://docs.google.com/spreadsheets/d/13f7RYobHL5PFVKVtOJw_QugpXyJqkVpjhxRNg6XGt0k/edit#gid=1141583017)
 * [Mining (High Level)](https://tlu.tarilabs.com/mining/)
-# Chapter 2 - The Web3 World
-## DAO's
+## Module 2 - DAO's
 * [What is a DAO](https://decrypt.co/resources/decentralized-autonomous-organization-dao)
 * [DAO's](https://1729.com/daos)
 * [How to DAO](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
 * [Join a DAO (Practice)](https://snapshot.org/#/)
 * [DAO Tools](https://docs.google.com/spreadsheets/d/1YRfIhcckhdNi9xSaCpCIDc2VV5HkprLlnp7lbTh5Txk/edit#gid=464771811)
-## Smart Contracts
+## Module 3 - Smart Contracts
 * [Step by Step Smart Contract Tutorial's](https://buildspace.so)
 * [Create a Coin](https://mintme.com/coin)
-## DeFi
+## Module 4 - DeFi
 * [Bankless Academy](https://app.banklessacademy.com)
 * [DeFi 101](https://thedefiant.io/defi-101/)
 * [DeFi Github Repo](https://github.com/baraldor/defi/blob/main/README.md)
 * [Sheet of Bridges](https://docs.google.com/spreadsheets/d/1jYZOfU2R3PdzRmnY9Nfc4pzerX_YSInNdyhtSj_3oWY/edit#gid=0)
-## Web3
+## Module 5 - Web3
 * [Web 3 Practice](https://rabbithole.gg/)
 * [What is Web3](https://www.freecodecamp.org/news/what-is-web3/)
 * [Consumer Applications](https://medium.com/lightspeed-venture-partners/the-future-of-crypto-native-consumer-products-74816daa3823)
 * [The Tokenized World](https://0xfren.substack.com/p/lets-envision-the-future-of-an-increasingly)
 * [Golden Age](https://li.substack.com/p/the-web3-renaissance-a-golden-age)
 * [ETH Big Picture](https://docs.google.com/spreadsheets/d/1Kt3OyIIFf99It0Tl65rzw5lmnFVJguEvRWjGRPc8oeY/edit#gid=0)
-# Chapter 3 - Web3 Specifics
-## Consensus
+## Module 6 - Consensus
 * [Consensus Mechanisms](https://tokens-economy.gitbook.io/consensus/)
 * [Consensus Pt 2](https://tlu.tarilabs.com/consensus-mechanisms/)
 * [Proof of Backhaul](https://witnesschain.com/assets/pdf/Proof_of_Backhaul.pdf)
-## Stablecoins
+## Module 7 - Stablecoins
 * [Stablecoin Rundown](https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798)
-## Identity
+## Module 8 - Identity
 * [Identity](https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c)
 * [Identity](https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8)
-## Play 2 Earn
+## Module 9 - Play 2 Earn
 * [P2E](https://medium.com/1kxnetwork/play-to-earn-economies-as-base-layer-protocols-for-games-87085997b6fd)
 * [Games List](https://docs.google.com/spreadsheets/d/1zizXKqmnex5YjbXD6c4k_VaQjr6ky0CL2TjK217kEmw/edit#gid=1153823974)
 * [Sustainible P2E](https://philipla.substack.com/p/sustainable-blockchain-game-model)
 * [Guilds](https://defivader.medium.com/the-era-of-guilds-375f9905287f)
 * [The Transition](https://web3games.substack.com/p/what-it-really-means-to-transition?s=w)
 * [1 vs 2 Token Model](https://crypto.nateliason.com/p/one-vs-two-tokens)
-## Metaverse/NFT
+## Module 10 - Metaverse and NFT's
 * [Metaverse Thread](https://twitter.com/mrjasonchoi/status/1499825764467838977)
 * [Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer)
-# Chapter 4 - Niches
-## Urbit
-* [Read The Network State](https://thenetworkstate.com/)
-* [What is Urbit?](https://youtu.be/M04AKTCDavc)
-* [Urbit Podcast Series](https://youtube.com/playlist?list=PLo7qEJPyC_VPrUwdqneF8nkvM0v5mYFK7)
-## Privacy
+## Module 11 - Privacy
 * [McAfee](https://twitter.com/officialmcafee/status/1316801215083225096?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ)
 * [Hong Kong](https://twitter.com/leanthebean/status/1521961964624175105?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ)
 * [Craig Timm](https://ironfish.network/blog/2022/10/06/privacy-in-digital-assets)
 * [Need for Zero Knowledge](https://amberlabs.substack.com/p/need-for-speed-zero-knowledge)
-# Chapter 5 - Research
+## Module 12 - Ethereum and EVM Chains
+* [OpenZepplin Smart Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+* [Eth Dev Tooling](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
+* [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet)
+* [Chainlist](https://chainlist.org/)
+* [Add an EVM Network](https://coinguides.org/evm-blockchains-add-evm-network/)
+## Module 12 - Hacks
+* [Most Significant Hacks of 2019](https://cointelegraph.com/news/most-significant-hacks-of-2019-new-record-of-twelve-in-one-year)
+* [Crypto Hacks](https://cointelegraph.com/news/roundup-of-crypto-hacks-exploits-and-heists-in-2020)
+* [Poly Hack](https://www.reuters.com/technology/how-hackers-stole-613-million-crypto-tokens-poly-network-2021-08-12/)
+* [Poly Hack v2](https://www.coindesk.com/markets/2021/08/17/the-poly-hack-and-cryptos-trust-issues/)
+* [Poly Hack v3](https://cointelegraph.com/news/poly-network-hack-exposes-defi-flaws-but-community-comes-to-the-rescue)
+* [Wormhole Hack](https://www.coindesk.com/tech/2022/02/02/blockchain-bridge-wormhole-suffers-possible-exploit-worth-over-250m/)
+## Module 13 - Grants
+Buildspace - https://buildspace.so/
+Web3 Foundation - https://web3.foundation/grants/ https://github.com/w3f/Grants-Program
+Kadena Grants - https://github.com/kadena-io/technical-grants
+Funding Ideas - https://mvpworkshop.co/blog/how-to-fund-your-web3-project/
+Polkadot Grants - https://wiki.polkadot.network/docs/grants
+Ethereum Grants - https://ethereum.org/en/community/grants/
+Chainlink Grants - https://chain.link/community/grants
+Kraken Grants - https://www.kraken.com/features/grants
+Gitcoin Grants - https://gitcoin.co/grants/explorer/?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=false&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=true&round_type=false&tab=grants
+Harmony.one - https://open.harmony.one/300m-on-bounties-grants-daos
+DoraHacks - https://dorahacks.io/
+
+Twitter Posts
+https://twitter.com/VittoStack/status/1491007572769488901?s=20&t=FQRfSWmW0cYUmlxm0cAxFg
+Nader Dabit - https://twitter.com/dabit3/status/1488647294111125521
+
+Learn to Earn
+Rabithole.gg - https://rabbithole.gg/
+Moralis Projects - https://moralis.io/projects/
+Pointer.gg - https://www.pointer.gg/
+
+AirDrop Listings
+Airdrops.io - https://airdrops.io/
+https://codepen.io/
+
+
+
+# Junior Year
+## BTC and LIghtning Network
+* https://www.youtube.com/watch?v=SXT9iq__V8c
+* https://www.stacks.co/
+* https://www.youtube.com/watch?v=ZkNwWSjYO6Q
+* https://www.youtube.com/watch?v=BXkEU2sj6jg
+* https://www.coindesk.com/layer2/privacyweek/2022/01/29/bitcoin-protects-privacy-and-fights-oppression/
+* https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/
+* https://www.coindesk.com/layer2/2021/12/28/how-bitcoins-lightning-network-advanced-in-2021/
+## Urbit
+* [Read The Network State](https://thenetworkstate.com/)
+* [What is Urbit?](https://youtu.be/M04AKTCDavc)
+* [Urbit Podcast Series](https://youtube.com/playlist?list=PLo7qEJPyC_VPrUwdqneF8nkvM0v5mYFK7)
 ## Research
 * [Network Analysis](https://tlu.tarilabs.com/network-analysis)
 * [Alpha Archives](https://thealpharchives.com)
@@ -309,73 +339,6 @@ This textbook is a living document created with the intention to serve as a reso
 * https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part
 * https://consensys.net/blog/news/the-decade-in-blockchain-2010-to-2020-in-review/
 * https://www.youtube.com/watch?v=WSN5BaCzsbo
-## Ethereum 
-* https://github.com/OpenZeppelin/openzeppelin-contracts
-* https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md
-* https://github.com/manojpramesh/solidity-cheatsheet
-* https://chainlist.org/
-* https://coinguides.org/evm-blockchains-add-evm-network/
-
-
-## Hacks
-* https://cointelegraph.com/news/most-significant-hacks-of-2019-new-record-of-twelve-in-one-year
-* https://cointelegraph.com/news/roundup-of-crypto-hacks-exploits-and-heists-in-2020
-* https://www.reuters.com/technology/how-hackers-stole-613-million-crypto-tokens-poly-network-2021-08-12/
-* https://www.coindesk.com/markets/2021/08/17/the-poly-hack-and-cryptos-trust-issues/
-* https://cointelegraph.com/news/poly-network-hack-exposes-defi-flaws-but-community-comes-to-the-rescue
-* https://www.coindesk.com/tech/2022/02/02/blockchain-bridge-wormhole-suffers-possible-exploit-worth-over-250m/
-
-
-## BTC and LIghtning Network
-* https://www.youtube.com/watch?v=SXT9iq__V8c
-* https://www.stacks.co/
-* https://www.youtube.com/watch?v=ZkNwWSjYO6Q
-* https://www.youtube.com/watch?v=BXkEU2sj6jg
-* https://www.coindesk.com/layer2/privacyweek/2022/01/29/bitcoin-protects-privacy-and-fights-oppression/
-* https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/
-* https://www.coindesk.com/layer2/2021/12/28/how-bitcoins-lightning-network-advanced-in-2021/
-
-
-
-
-
-https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=c2da3f43-f1fd-4ec3-b7af-9c786c2b12a2%40redis
-
-
-
-
-Grants and $$$
-
-    Buildspace - https://buildspace.so/
-    Web3 Foundation - https://web3.foundation/grants/ https://github.com/w3f/Grants-Program
-    Kadena Grants - https://github.com/kadena-io/technical-grants
-    Funding Ideas - https://mvpworkshop.co/blog/how-to-fund-your-web3-project/
-    Polkadot Grants - https://wiki.polkadot.network/docs/grants
-    Ethereum Grants - https://ethereum.org/en/community/grants/
-    Chainlink Grants - https://chain.link/community/grants
-    Kraken Grants - https://www.kraken.com/features/grants
-    Gitcoin Grants - https://gitcoin.co/grants/explorer/?page=1&limit=12&me=false&sort_option=weighted_shuffle&collection_id=false&network=mainnet&state=active&profile=false&sub_round_slug=false&collections_page=1&grant_regions=&grant_types=&grant_tags=&tenants=&idle=true&featured=true&round_type=false&tab=grants
-    Harmony.one - https://open.harmony.one/300m-on-bounties-grants-daos
-    DoraHacks - https://dorahacks.io/
-
-Twitter Posts
-
-    https://twitter.com/VittoStack/status/1491007572769488901?s=20&t=FQRfSWmW0cYUmlxm0cAxFg
-    Nader Dabit - https://twitter.com/dabit3/status/1488647294111125521
-
-Learn to Earn
-
-    Rabithole.gg - https://rabbithole.gg/
-    Moralis Projects - https://moralis.io/projects/
-    Pointer.gg - https://www.pointer.gg/
-
-AirDrop Listings
-
-    Airdrops.io - https://airdrops.io/
-
-
-
-https://codepen.io/
 
 
 # Research Toolkit
@@ -401,3 +364,20 @@ https://codepen.io/
 * [Rice Daily](https://literate-sweatshirt-8cc.notion.site/be65a66f8d6242d28ec5b908942853ad?v=31ed307a001f4edd9f5b8427d1402b96)
 * [Solana VC's](https://build.superteam.fun/vcs-and-funds)
 * [Artemis](https://app.artemis.xyz/dashboard)
+* 
+
+https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=0&sid=c2da3f43-f1fd-4ec3-b7af-9c786c2b12a2%40redis
+
+
+
+
+
+
+
+* [Pepi Lore](https://www.youtube.com/watch?v=MvKAGEi2CzI)
+* [Spongebob](https://www.youtube.com/watch?v=Ci04mGSKbe0)
+* [GSUITE alternatives](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
+* [Open Source Alternatives](https://www.opensourcealternative.to)
+* [Clone Hero](https://clonehero.net/)
+* [Clone Hero Song Archive](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0)
+* [Monome](https://monome.org/)
