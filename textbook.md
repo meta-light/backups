@@ -120,6 +120,7 @@ This textbook is a living document created with the intention to serve as a reso
 - [Initial ChatGPT Plugins](https://www.cnet.com/tech/mobile/chatgpt-can-now-browse-the-web-book-flights-and-more/)
 - [Offical Documents for LangChain](https://python.langchain.com/en/latest/)
 ## Module 7 - DePIN
+* [DePIN Jobs](https://jobs.ev3.xyz/jobs)
 * [TIPIN: Parley Labs](https://parleylabs.com/blog/what-is-tipin)
 * [EdgeFi](https://medium.com/borderless-capital/edgefi-597b9c747a94)
 * [PoPW](https://medium.com/alliancedao/how-can-popw-networks-win-fe2cc26393d0)
