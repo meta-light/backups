@@ -358,6 +358,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [Open Source Alternatives](https://www.opensourcealternative.to)
 * [Clone Hero](https://clonehero.net/)
 * [Clone Hero Song Archive](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0)
+* [OpenBB](https://my.openbb.co/app/terminal)
 ## Module 2 - Solana Maximalism
 * [ETH FUD](https://joncharbonneau.substack.com/p/eth-is-not-ultrasound-money-part)
 
