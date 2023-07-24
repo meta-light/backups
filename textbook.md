@@ -156,6 +156,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [Streamr Quick Overview](https://youtu.be/YFBNRVFOunc)
 * [Streamr Whitepaper](https://streamr-public.s3.amazonaws.com/streamr-network-lightpaper.pdf)
 * [Streamr Twitter Feed](https://twitter.com/streamr)
+* [DePIN vs DeREN](https://variant.fund/articles/depin-deren-toward-better-classification-decentralized-infrastructure-networks/)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
