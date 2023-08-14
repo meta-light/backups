@@ -414,3 +414,6 @@ This textbook is a living document created with the intention to serve as a reso
 * [Jason's Reading List](https://jasonbadeaux.notion.site/40a5bf99cd6b4966acfb08129df9cb19?v=aba6edf47be649e4abf28122c579d044)
 * [Shuennnyyy](https://shuennnyyy.notion.site/Crypto-Learning-Resources-40edcd84a2f24be7ab2f59c5b59312db)
 * [Tari Labs University](https://tlu.tarilabs.com)
+## Taxes
+* [Fairspot](https://www.fairspot.host/hnt-export-mining-tax)
+* [StakeTax](https://stake.tax/)
