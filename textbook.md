@@ -160,6 +160,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [Self Propagating DePIN Telecommunications Networks](https://www.dropbox.com/scl/fi/iuzxn3crgbo31failbxj7/Self-Propagating-DePIN-Telecommunications-Networks-A-Primer-on-Design.pdf?dl=0&rlkey=ij8wzgf26vn0zfvtckfn8rfva)
 * [Helium IoT Data Flow Map](https://heliumgeek.com/maps/iot-data-r8.html)
 * [DePIN Scan](https://depinscan.io/)
+* [DePIN Ninja](https://ev3.xyz/chart)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
