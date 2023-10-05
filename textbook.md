@@ -162,6 +162,8 @@ This textbook is a living document created with the intention to serve as a reso
 * [DePIN Scan](https://depinscan.io/)
 * [DePIN Ninja](https://ev3.xyz/chart)
 * [DePIN Design](https://multicoin.capital/2023/09/21/exploring-the-design-space-of-deping-networks/)
+* [3.5 BN MKT](https://x.com/MaxThake/status/1652971652722851840?s=20)
+* [Is Chainlink a DePIN?](https://awjtu4lby75lyjodjvu36cnrw7npz2posr5g5zekqszm5h32cqzq.arweave.net/BZM6cWHH-rwlw01pvwmxt9r86e6Uem7kioSyzp96FDM)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
