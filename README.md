@@ -12,3 +12,7 @@ I'm [Meta Light](https://meta-light.vercel.app/), a Web3 Research and BD Lead.
 - [SolCV](https://github.com/meta-lite/SolCV): A Solana based framework for creating cNFT business cards
 - [MetaGPT](https://github.com/meta-lite/MetaGPT): A simple, Python AI model that can be trained on text files
 - [Meta Movies](https://github.com/meta-lite/meta-movies): Personal movie database leveraging OMDB, built with NextJS
+
+### My Contributions
+- [awesome-depin](https://github.com/iotexproject/awesome-depin): A curated list of all DePIN research, projects and resources
+- [token-list](https://github.com/jup-ag/token-list): Jupiter Exchanges SPL token verification repository
