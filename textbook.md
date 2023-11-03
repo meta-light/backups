@@ -77,6 +77,8 @@ This textbook is a living document created with the intention to serve as a reso
 * [What is Lightning](https://www.youtube.com/watch?v=SXT9iq__V8c)
 * [Taproot Upgrade](https://www.coindesk.com/layer2/privacyweek/2022/01/24/bitcoin-isnt-private-but-its-recent-taproot-upgrade-will-help/)
 * [Taproot Overview Video](https://www.youtube.com/watch?v=BXkEU2sj6jg)
+* [Why Polygon used to be cool](https://twitter.com/100y_eth/status/1560604726005075971)
+* [Polygon Anti-Thesis](https://twitter.com/Justin_Bons/status/1559218289208971267)
 ## Module 4 - Smart Contracts
 - [History of NFTs](https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10)
 - [What are NFT Examples?](https://www.youtube.com/watch?v=YjLoeT88UFA&ab_channel=SimpleAssets)
@@ -166,6 +168,14 @@ This textbook is a living document created with the intention to serve as a reso
 * [Is Chainlink a DePIN?](https://awjtu4lby75lyjodjvu36cnrw7npz2posr5g5zekqszm5h32cqzq.arweave.net/BZM6cWHH-rwlw01pvwmxt9r86e6Uem7kioSyzp96FDM)
 * [DePIN ROI](https://goldandhawks.com/the-depin-incentive-cycle-miner-roi/)
 * [What is DePIN?](https://blog.streamr.network/what-is-depin/)
+* [DeWi Unit Economics](https://7z6s6va27wdjx7gebacdeawuvv5luddfgzjtrqxuazsokh6bof6a.arweave.net/_n0vVBr9hpv8xAgEMgLUrXq6DGU2UzjC9AZk5R_BcXw)
+* [DeWi Network Design](https://76qk5knw7e5rmr2aoan52spc5hutqblj53aumcnxoqbzotmbtxha.arweave.net/_6Cuqbb5OxZHQHAb3Uni6ek4BWnuwUYJt3QDl02Bnc4)
+* [Crypto Junk Equity](https://moneromr.substack.com/p/crypto-as-junk-equity-a-mental-model?sd=pf)
+* [Investing in Digital Commodities](https://n7hpaftnke3skaqixtscce7ewv5khh4i2dalot4m726hx5aeaivq.arweave.net/b87wFm1RNyUCCLzkIRPktXqjn4jQwLdPjP68e_QEAis)
+* [A Value Investors Take on Helium](https://jvluweumkgvdms2rwsj3eonuipiwvgtgy5vd3j5gwv73dlsidb2q.arweave.net/TVdLEoxRqjZLUbSTsjm0Q9FqmmbHaj2nprV_sa5IGHU)
+* [5G Race - Pollen](https://members.delphidigital.io/reports/pollen-and-helium-the-race-to-bootstrap-a-5g-network/#key-takeaways)
+* [DeWi Project TVL](https://twitter.com/DAnconia_Crypto/status/1574388063827988480?s=20&t=qPZ80vf74vFalO5ZAtJ8GA)
+* [TIPIN Fee Tracker](https://web3index.org/)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
@@ -281,6 +291,8 @@ This textbook is a living document created with the intention to serve as a reso
 * [Crypto Forum](https://urbit.org/groups/~sonwet/cryptocurrency-forum)
 * [Marketplace Group](https://urbit.org/groups/~tirrel/the-marketplace)
 * [Urbitcoin Cash Group](https://urbit.org/groups/~pindet-timmut/urbitcoin-cash)
+* [UVM Whitepaper](https://uvm.network/whitepaper.html)
+* [Uqbar Whitepaper](https://uqbar.network/Uqbar-Clearpaper_2.0.1.pdf)
 ## Module 3 - Protocol Research
 * [Network Analysis](https://tlu.tarilabs.com/network-analysis)
 * [Alpha Archives](https://thealpharchives.com)
@@ -387,6 +399,19 @@ This textbook is a living document created with the intention to serve as a reso
 * [Moken](https://www.moken.io/)
 * [DC Dashboard](https://dune.com/helium-foundation/helium-data-credits)
 * [Firmware Hub by Nebra](https://hub.nebra.com/#NH1)
+
+## Module 4 - Investing
+* [Low-Cap Gems](https://typefully.com/DazaiCrypto/z81iqSC)
+* [Ape-To-Learn](https://nosleep.substack.com/p/the-way-of-the-ape)
+* [Intro to Portfolio Management](https://onchainwizard.substack.com/p/issue-4-intro-to-portfolio-management?utm_source=%2Fprofile%2F85977139-onchain-wizard&utm_medium=reader2)
+* [Evaluate like a VC](https://twitter.com/Cov_duk/status/1518561741382176769)
+* [VC Master List](https://docs.google.com/spreadsheets/d/1oPq7dt6hsntvmAhgPc8H0pcbUnbi7V6kX-FIOOVmlOk/edit#gid=0)
+* [VC Database](https://codygarrison.notion.site/Web3-VC-Database-2022-de9c391f8dd14a8a9a3e01a69f4e0b7f)
+* [Active Solana Funds](https://build.superteam.fun/vcs-and-funds)
+
+## Module 5 - Founding
+* [Finding Co-Founders](https://twitter.com/tanmay310/status/1554165176076619776)
+* 
 
 # Postgrad
 ## Toys
