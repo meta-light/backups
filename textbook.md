@@ -175,7 +175,9 @@ This textbook is a living document created with the intention to serve as a reso
 * [A Value Investors Take on Helium](https://jvluweumkgvdms2rwsj3eonuipiwvgtgy5vd3j5gwv73dlsidb2q.arweave.net/TVdLEoxRqjZLUbSTsjm0Q9FqmmbHaj2nprV_sa5IGHU)
 * [5G Race - Pollen](https://members.delphidigital.io/reports/pollen-and-helium-the-race-to-bootstrap-a-5g-network/#key-takeaways)
 * [DeWi Project TVL](https://twitter.com/DAnconia_Crypto/status/1574388063827988480?s=20&t=qPZ80vf74vFalO5ZAtJ8GA)
-* [TIPIN Fee Tracker](https://web3index.org/)
+* [DePIN Fee Tracker](https://web3index.org/)
+* [Chain Selection](https://medium.com/wihi-weather/chain-selection-for-a-decentralized-physical-infrastructure-network-depin-bf1c646d9330)
+* [3 Sided Markets](https://medium.com/wihi-weather/depins-are-three-sided-markets-an-evaluation-guide-for-investors-to-access-decentralized-8f82273c8d02)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
