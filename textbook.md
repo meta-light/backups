@@ -116,6 +116,7 @@ This textbook is a living document created with the intention to serve as a reso
 - [Optional Software: JSONCrack](https://jsoncrack.com/)
 - [Web3.py A Python Framework](https://web3py.readthedocs.io/en/stable/)
 - [Intro to Web3.JS - DappUniversity](https://www.dappuniversity.com/articles/web3-js-intro)
+- [Crypto Fees](https://cryptofees.info/)
 ## Module 6 - Large Language Models
 - [Solidity Chatbot built around ChatGPT](https://twitter.com/jiayaoqi/status/1640242749705453570?s=20)
 - [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
