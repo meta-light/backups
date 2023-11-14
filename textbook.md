@@ -2,11 +2,6 @@
 This textbook is a living document created with the intention to serve as a resource to incoming web3 particpants who want to dive deeper into the research  and development side of the sector. This document is free to copy and content suggestions are welcome. WAGMI
 # Freshman Year
 ## Module 0 - The Storm is Brewing
-### Mind-Altering Media
-* Silicon Valley (HBO)
-* Mr. Robot(USA)
-* Devs (FX)
-* Westworld (HBO)
 * [The Future of Cities](https://youtu.be/xOOWk5yCMMs)
 * [Web 3 Podcasts](https://docs.google.com/spreadsheets/d/1aTjCVtdQfofUYBPtdvZQr1HtS23XchLHXFGqy-mnoCA/edit#gid=0)
 * [Web 3 Reading List](https://medium.com/forbole/blockchain-101-reading-watching-listening-list-a7ee9395fba6)
