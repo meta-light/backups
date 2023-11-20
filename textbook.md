@@ -175,6 +175,8 @@ This textbook is a living document created with the intention to serve as a reso
 * [Chain Selection](https://medium.com/wihi-weather/chain-selection-for-a-decentralized-physical-infrastructure-network-depin-bf1c646d9330)
 * [3 Sided Markets](https://medium.com/wihi-weather/depins-are-three-sided-markets-an-evaluation-guide-for-investors-to-access-decentralized-8f82273c8d02)
 * [DePIN <> RWA](https://iotex.io/blog/real-world-assets-depin/)
+* [Moken DePINs](https://explorer.moken.io/depins)
+* [DePIN Hub](https://depinhub.io/rankings/blockchains)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
