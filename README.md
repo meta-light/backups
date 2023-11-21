@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm [Meta Light](https://meta-light.vercel.app/), a Web3 Research and BD Lead. 
+I'm [Meta Light](https://carpinito.id/), a Web3 Research and BD Lead. 
 
 ### My Resources 
 - [Solana Hello World Tutorial](https://github.com/meta-lite/meta-lite/tree/main/misc-code-backups/hello-world-solana): An introductory tutorial on Solana smart contracts and development
