@@ -24,6 +24,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [The Real Treasure](https://tomerstrolight.medium.com/the-legendary-treasure-of-satoshi-nakamoto-c3621c5b2106)
 * [From the Start](https://vimeo.com/161183966)
 * [Crypto's First Decade](https://consensys.net/blog/news/the-decade-in-blockchain-2010-to-2020-in-review/)
+* [Decentral Park](https://decentralparkcapital.substack.com/)
 ## Module 2 - Environment Setup
 * [Digital Assets](https://tlu.tarilabs.com/digital-assets)
 * [Tokenomics](https://youtu.be/w0HX5Y-yIJY)
