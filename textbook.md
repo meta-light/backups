@@ -295,6 +295,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [UVM Whitepaper](https://uvm.network/whitepaper.html)
 * [Uqbar Whitepaper](https://uqbar.network/Uqbar-Clearpaper_2.0.1.pdf)
 * [Web_0 Podcast](https://open.spotify.com/show/5eGL1BPwPGje79kWn7VqZ9?si=dd0a5c4189da4c8e)
+* [Self Host](https://www.nativeplanet.io/software)
 ## Module 3 - Protocol Research
 * [Network Analysis](https://tlu.tarilabs.com/network-analysis)
 * [Alpha Archives](https://thealpharchives.com)
