@@ -181,6 +181,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [Helium Mobile Data Flow](https://heliumgeek.com/maps/mobile-data-r8.html)
 * [Helium IoT Data Flow](https://heliumgeek.com/maps/iot-data-r8.html)
 * [Helium Mobile Pod - Frank Mong](https://www.podpage.com/the-index-podcast/building-the-helium-wireless-network-with-frank-mong-coo-of-nova-labs/)
+* [DePIN: Decentralized Hardware Meets the New Data Economy](https://www.veradiverdict.com/p/depin)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
