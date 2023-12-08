@@ -182,6 +182,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [Helium IoT Data Flow](https://heliumgeek.com/maps/iot-data-r8.html)
 * [Helium Mobile Pod - Frank Mong](https://www.podpage.com/the-index-podcast/building-the-helium-wireless-network-with-frank-mong-coo-of-nova-labs/)
 * [DePIN: Decentralized Hardware Meets the New Data Economy](https://www.veradiverdict.com/p/depin)
+* [DePIN Landscape Map](https://iotex.io/blog/depin-landscape-map/)
 ## Module 8 - Legal Environment
 - [RESTRICT Act Overview](https://www.coindesk.com/policy/2023/03/21/white-house-takes-aim-at-crypto-in-scathing-economic-report/)
 - [White House Economic Report](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf)
@@ -309,6 +310,7 @@ This textbook is a living document created with the intention to serve as a reso
 * [VC Database](https://codygarrison.notion.site/Web3-VC-Database-2022-de9c391f8dd14a8a9a3e01a69f4e0b7f)
 * [Employment](https://www.paradigm.xyz/2022/06/evaluating-web3-job-opportunities-like-an-investor)
 * [Pumping and Dumping 101](https://twitter.com/milesdeutscher/status/1585282742052220936)
+* [L1 vs L2 vs Rollups](https://dba.xyz/l1s-vs-l2s-rollups-vs-integrated-general-purpose-vs-app-specific/)
 ## Module 4 - Technical Analysis
 * [TA Lessons](https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit)
 * [DeFi Risk Assessment](https://tokenbrice.xyz/money-markets-risk)
