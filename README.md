@@ -19,3 +19,4 @@ I'm [Meta Light](https://carpinito.id/), a Web3 Research and BD Lead.
 - [awesome-depin](https://github.com/iotexproject/awesome-depin): A curated list of all DePIN research, projects and resources
 - [token-list](https://github.com/jup-ag/token-list): Jupiter Exchanges SPL token verification repository
 - [helium/hip](https://github.com/helium/HIP): Helium Improvement Proposals
+- [helius/xray](https://github.com/helius-labs/xray): Xray Explorer
