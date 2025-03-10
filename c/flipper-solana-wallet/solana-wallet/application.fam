@@ -1,0 +1,13 @@
+App(
+    appid="solana_wallet",
+    name="Solana Wallet",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="solana_wallet_app",
+    stack_size=4 * 1024,
+    fap_icon="icons/solana_10px.png",
+    fap_category="Crypto",
+    fap_author="Your Name",
+    fap_weburl="https://github.com/yourusername/flipper-solana-wallet",
+    fap_version="0.1",
+    fap_description="Solana Hardware Wallet",
+) 
